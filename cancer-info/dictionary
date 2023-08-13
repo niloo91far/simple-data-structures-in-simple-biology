@@ -1,0 +1,52 @@
+i = 1
+
+patients={1:{'name': None, 'age': None, 'cancer': None, 'mal or ben': None, 'stage': None},
+         2:{'name': None, 'age': None, 'cancer': None, 'mal or ben': None, 'stage': None},
+         3:{'name': None, 'age': None, 'cancer': None, 'mal or ben': None, 'stage': None},
+         4:{'name': None, 'age': None, 'cancer': None, 'mal or ben': None, 'stage': None},
+         5:{'name': None, 'age': None, 'cancer': None, 'mal or ben': None, 'stage': None}}
+
+# patients.update('patient1',{'name': None, 'age': None, 'cancer': None})
+# patients.update('patient2',{'name': None, 'age': None, 'cancer': None})
+
+print("How many records do you want to enter (upto 5)?")
+n = int(input())
+while i<= n:
+    print("please enter below information for patient no", i)
+    print("Full name:")
+    name_val=input()
+    patients[i]['name']=name_val
+    print("Age:")
+    age_val=int(input())
+    patients[i]['age']=age_val
+    print("Cancer type:")
+    cancer_val=input()
+    patients[i]['cancer']=cancer_val
+    print("malign or benign:")
+    degree_val=input()
+    patients[i]['mal or ben']=degree_val
+    print("Stage:")
+    stage_val=int(input())
+    patients[i]['stage']=stage_val
+    i = i+1
+
+
+for record in range(1,n+1):
+    if patients[record]['mal or ben'] == 'benign':
+        if patients[record]['age'] >= 50:
+            if patients[record]['stage'] == 1 or patients[record]['stage'] == 2:
+                print("patient", record, "should follow treatment 1-2")
+            elif patients[record]['stage'] == 3 or patients[record]['stage'] == 4:
+                print("patient", record, "should follow treatment 2-2")
+        elif patients[record]['age'] < 50:
+            if patients[record]['stage'] == 1 or patients[record]['stage'] == 2:
+                print("patient", record, "should follow treatment 1-1")
+            elif patients[record]['stage'] == 3:
+                print("patient", record, "should follow treatment 2-1")
+            elif patients[record]['stage'] == 4:
+                print("patient", record, "should follow treatment 3-1")
+    elif patients[record]['mal or ben'] == 'malign':
+        if patients[record]['stage'] == 1 or patients[record]['stage'] == 2:
+            print("patient", record, "should treatment 1-3")
+        if patients[record]['stage'] == 3 or patients[record]['stage'] == 4:
+            print("patient", record, "should treatment 2-3")
