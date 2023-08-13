@@ -1,0 +1,833 @@
+2023/7/17	D11380	J06BD08	Nirsevimab	Beyfortus	AstraZeneca	BLA
+2023/6/27	D10990		Somatrogon	Ngenla	Pfizer Inc	BLA
+2023/6/26	D12182	(L04AG16)	Rozanolixizumab	Rystiggo	UCB Inc	BLA
+2023/6/23	D11970	(L04AF08)	Ritlecitinib tosylate	Litfulo	Pfizer Inc	NME
+2023/6/15	D11833	(L01FX28)	Glofitamab	Columvi	Genentech	BLA
+2023/5/26	D10669	A10BK06	Sotagliflozin	Inpefa	Lexicon Pharmaceuticals	NME
+2023/5/25	D12606		Flotufolastat F18 gallium	Posluma	Blue Earth Diagnostics Ltd.	NME
+2023/5/23	D12607	(J07BX05)	Respiratory syncytial virus vaccine, adjuvanted	Arexvy	GlaxoSmithKline Biologicals SA	BLA
+2023/5/23	D12605		Sulbactam and durlobactam	Xacduro	Entasis Therapeutics	
+2023/5/19	D12368	(L01FX27)	Epcoritamab	Epkinly	Genmab US	BLA
+2023/5/18	D12604		Perfluorohexyloctane	Miebo	Bausch & Lomb Americas	NME
+2023/5/12	D11976	G02CX06	Fezolinetant	Veozah	Astellas Pharma US, Inc	NME
+2023/5/9	D11685	A16AB20	Pegunigalsidase alfa	Elfabrio	Chiesi Farmaceutici S.p.A.	BLA
+2023/4/25	D11811		Tofersen	Qalsody	Biogen MA Inc	NME
+2023/3/24	D11159	(L03AX22)	Leniolisib phosphate	Joenja	Pharming Technologies B.V.	NME
+2023/3/22	D11198		Rezafungin acetate	Rezzayo	Cidara Therapeutics	NME
+2023/3/22	D11827	L01FF10	Retifanlimab	Zynyz	Incyte Corporation	BLA
+2023/3/10	D12400		Trofinetide	Daybue	Acadia Pharmaceuticals	NME
+2023/3/9	D11899		Zavegepant hydrochloride	Zavzpret	Pfizer Inc	NME
+2023/2/28	D10964		Omaveloxolone	Skyclarys	Reata Pharmaceuticals	NME
+2023/2/17	D11776		Sparsentan	Filspari	Travere Therapeutics	NME
+2023/2/16	D11024	A16AB15	Velmanase alfa	Lamzede	Chiesi Farmaceutici S.p.A.	BLA
+2023/2/1	D10874	B03XA07	Daprodustat	Jesduvroq	GlaxoSmithKline	NME
+2023/1/27	D11672	(L02BA04)	Elacestrant dihydrochloride	Orserdu	Stemline Therapeutics	NME
+2023/1/27	D12050	(L01EL05)	Pirtobrutinib	Jaypirca	Eli Lilly	NME
+2023/1/20	D10865		Bexagliflozin	Brenzavvy	TheracosBio	NME
+2023/1/6	D11678	(N06DX04)	Lecanemab	Leqembi	Eisai	BLA
+2022/12/28	D12495	D03BA03	Anacaulase	NexoBrid	MediWound	BLA
+2022/12/28	D11243	L04AA57	Ublituximab	Briumvi	TG Therapeutics	BLA
+2022/12/23	D12496		Xenon Xe 129 hyperpolarized	Xenoview	Polarean	NME
+2022/12/22	D11463	(L01FX25)	Mosunetuzumab	Lunsumio	Genentech	BLA
+2022/12/22	D12162	J05AX31	Lenacapavir sodium	Sunlenca	Gilead Sciences	NME
+2022/12/12	D12301	L01XX77	Adagrasib	Krazati	Mirati Therapeutics	NME
+2022/12/1	D12483		Olutasidenib	Rezlidhia	Forma Therapeutics	NME
+2022/11/18	D09013		Teplizumab	Tzield	Provention Bio	BLA
+2022/11/14	D10954		Mirvetuximab soravtansine	Elahere	ImmunoGen	BLA
+2022/10/25	D12177	(L01FX24)	Teclistamab	Tecvayli	Janssen Biotech	BLA
+2022/10/21	D06657	L01FX20	Tremelimumab	Imjudo	AstraZeneca Pharmaceuticals	BLA
+2022/9/30	D11725	L01EN04	Futibatinib	Lytgobi	Taiho Oncology	NME
+2022/9/29	D12439		Sodium phenylbutyrate and taurursodiol	Relyvrio	Amylyx Pharmaceuticals	
+2022/9/22	D10966	S01EX06	Omidenepag isopropyl	Omlonti	Santen	NME
+2022/9/21	D12435	V08CA12	Gadopiclenol	Elucirem	Guerbet	NME
+2022/9/14	D08571	H01BA04	Terlipressin acetate	Terlivaz	Mallinckrodt Hospital Products	NME
+2022/9/9	D11188		Eflapegrastim	Rolvedon	Spectrum Pharmaceuticals	BLA
+2022/9/9	D11817	L04AA56	Deucravacitinib	Sotyktu	Bristol-Myers Squibb	NME
+2022/9/7	D10921		Daxibotulinumtoxin A	Daxxify	Revance Therapeutics	BLA
+2022/9/1	D12066	L04AC22	Spesolimab	Spevigo	Boehringer Ingelheim Pharmaceuticals	BLA
+2022/8/31	D10820	A16AB25	Olipudase alfa	Xenpozyme	Genzyme	BLA
+2022/6/13	D11916	N07XX18	Vutrisiran sodium	Amvuttra	Alnylam Pharmaceuticals	NME
+2022/5/23	D11365	(D05AX07)	Tapinarof	Vtama	Dermavant Sciences	NME
+2022/5/13	D11360	A10BX16	Tirzepatide	Mounjaro	Eli Lilly	BLA
+2022/5/3	D10775	A02BD14	Vonoprazan, amoxicillin and clarithromycin	Voquenza	Phathom Pharmaceuticals	
+2022/4/28	D12265	C01EB24	Mavacamten	Camzyos	MyoKardia, Inc	NME
+2022/4/26	D11785	J02AC06	Oteseconazole	Vivjoa	Mycovia Pharmaceuticals	NME
+2022/3/23	D12335	V10XX05	Lutetium Lu 177 vipivotide tetraxetan	Pluvicto	Novartis Pharmaceuticals	NME
+2022/3/18	D12334	L01XY03	Nivolumab and relatlimab	Opdualag	Bristol-Myers Squibb	
+2022/3/18	D04300	N03AX27	Ganaxolone	Ztalmy	Marinus Pharmaceuticals	NME
+2022/2/28	D11768	L01EJ03	Pacritinib	Vonjo	CTI BioPharma Corp.	NME
+2022/2/17	D11408	B06AX04	Mitapivat sulfate	Pyrukynd	Agios Pharmaceuticals	NME
+2022/2/11	D12174		Bebtelovimab	Bebtelovimab	Eli Lilly	EUA
+2022/2/4	D11530	L04AA55	Sutimlimab	Enjaymo	Bioverativ USA	BLA
+2022/1/28	D11516	S01LA09	Faricimab	Vabysmo	Genentech	BLA
+2022/1/25	D12296	L01XX75	Tebentafusp	Kimmtrak	Immunocore	BLA
+2022/1/14	D11400	D11AH08	Abrocitinib	Cibinqo	Pfizer Inc	NME
+2022/1/7	D11887	(N05CJ03)	Daridorexant hydrochloride	Quviviq	Idorsia Pharmaceuticals US	NME
+2021/12/27	D09979	D11AH07	Tralokinumab	Adbry	LEO Pharma	BLA
+2021/12/23	D11943	J05AB18	Molnupiravir	Molnupiravir	Merck Sharp & Dohme Corp.	EUA
+2021/12/22	D12269	J05AE30	Nirmatrelvir and ritonavir	Paxlovid	Pfizer Inc	EUA
+2021/12/22	D12293	C10AX16	Inclisiran	Leqvio	Novartis AG	NME
+2021/12/17	D11876	L04AA58	Efgartigimod alfa	Vyvgart	argenx BV	BLA
+2021/12/17	D11771	R03DX11	Tezepelumab	Tezspire	AstraZeneca AB	BLA
+2021/12/8	D12262	J06BD03	Tixagevimab and cilgavimab	Evusheld	AstraZeneca Pharmaceuticals	EUA
+2021/11/29	D12250	V04CX10	Pafolacianine sodium	Cytalux	On Target Laboratories LLC	NME
+2021/11/23	D04859	J05AX10	Maribavir	Livtencity	Takeda Pharmaceuticals USA	NME
+2021/11/19	D11190	M05BX07	Vosoritide	Voxzogo	BioMarin Pharmaceutical Inc	BLA
+2021/11/12	D11027	L03AB15	Ropeginterferon alfa-2b	Besremi	PharmaEssentia Corporation	BLA
+2021/10/29	D11404	L01EA06	Asciminib hydrochloride	Scemblix	Novartis Pharmaceuticals	NME
+2021/10/7	D11093	L04AA59	Avacopan	Tavneos	ChemoCentryx, Inc	NME
+2021/9/29	D10952	A05AX04	Maralixibat chloride	Livmaril	Mirum Pharmaceuticals	NME
+2021/9/28	D11313	N02CD07	Atogepant	Qulipta	AbbVie	NME
+2021/9/20	D11814	L01FX23	Tisotumab vedotin	Tivdak	Seagen	BLA
+2021/9/15	D11969	L01EB10	Mobocertinib succinate	Exkivity	Takeda Pharmaceuticals America	NME
+2021/8/25	D11486	H01AC09	Lonapegsomatropin	Skytrofa	Acendis Pharma Endocrinology Div A/S	BLA
+2021/8/23	D11971	J07BN01	Tozinameran	Comirnaty	BioNTech Manufacturing GmbH	BLA
+2021/8/23	D10890	V03AX04	Difelikefalin acetate	Korsuva	Cara Therapeutics Inc	NME
+2021/8/13	D11954	L01XX74	Belzutifan	Welireg	Merck	NME
+2021/8/13	D12206	J07BA01	Tick-borne encephalitis vaccine	Ticovac	Pfizer Ireland Pharmaceuticals	BLA
+2021/8/6	D11744	A16AB22	Avalglucosidase alfa	Nexviazyme	Genzyme Corporation	BLA
+2021/7/30	D11082	L04AA51	Anifrolumab	Saphnelo	AstraZeneca Pharmaceuticals	BLA
+2021/7/20	D11716	A05AX05	Odevixibat	Bylvay	Albireo Pharma, Inc	NME
+2021/7/16	D11816	L04AA48	Belumosudil mesylate	Rezurock	Kadmon Pharmaceuticals	NME
+2021/7/16	D11252	P01CA03	Fexinidazole	Fexinidazole	Drugs for Neglected Diseases initiative	NME
+2021/7/16	D12205	J07AL02	Pneumococcal 15-valent conjugate vaccine	Vaxneuvance	Merck Sharp & Dohme Corp.	BLA
+2021/7/9	D10633	C03DA05	Finerenone	Kerendia	Bayer HealthCare Pharmaceuticals Inc	NME
+2021/6/30	D02997	L01XX02	Asparaginase erwinia chrysanthemi	Rylaze	Jazz Pharmaceuticals Inc	
+2021/6/8	D12207	J07AL02	Pneumococcal 20-valent conjugate vaccine	Prevnar 20	Wyeth Pharmaceuticals	BLA
+2021/6/7	D10541	N06DX03	Aducanumab	Aduhelm	Biogen Inc	BLA
+2021/6/1	D11545	J02AX07	Ibrexafungerp citrate	Brexafemme	SCYNEXIS, Inc	NME
+2021/5/28	D12117	N05AH53	Olanzapine and samidorphan	Lybalvi	Alkermes Inc	
+2021/5/28	D11611	L01EN03	Infigratinib phosphate	Truseltiq	QED Therapeutics Inc	NME
+2021/5/28	D12055	L01XX73	Sotorasib	Lumakras	Amgen Inc	NME
+2021/5/26	D12014	J06BD05	Sotrovimab	Sotrovimab	GlaxoSmithKline LLC	BLA
+2021/5/26	D12132	V09IX16	Piflufolastat F 18	Pylarify	Progenics Pharmaceuticals Inc	NME
+2021/5/21	D11894	L01FX18	Amivantamab	Rybrevant	Janssen Biotech	BLA
+2021/5/14	D11613	L04AA54	Pegcetacoplan	Empaveli	Apellis Pharmaceuticals Inc	NME
+2021/4/23	D11338	L01FX22	Loncastuximab tesirine	Zynlonta	ADC Therapeutics SA	BLA
+2021/4/22	D11366	L01FF07	Dostarlimab	Jemperli	GlaxoSmithKline	BLA
+2021/4/15	D12047	G03AA18	Drospirenone and estetrol	Nextstellis	Mayne Pharma	
+2021/4/2	D02572	N06AX09	Viloxazine hydrochloride	Qelbree	Supernus Pharmaceuticals	NME
+2021/3/22	D11359	H04AA02	Dasiglucagon	Zegalogue	Zealand Pharma AS	NME
+2021/3/18	D11215	L04AA50	Ponesimod	Ponvory	Janssen Pharmaceuticals Inc	NME
+2021/3/10	D10190	L01EK03	Tivozanib hydrochloride	Fotivda	Aveo Pharmaceuticals	NME
+2021/3/3	D11989	N06BA15	Serdexmethylphenidate and dexmethylphenidate	Azstarys	Commcave Therapeutics SA	
+2021/2/27	D12129	J07BN02	COVID-19 vaccine (Ad26.COV2-S [recombinant])	Janssen COVID-19 Vaccine	Janssen Biotech Inc	EUA
+2021/2/26	D11870	L01AA10	Melphalan flufenamide hydrochloride	Pepaxto	Oncopeptides AB	NME
+2021/2/26	D11780	A16AX19	Fosdenopterin hydrobromide	Nulibry	Origin Biosciences Inc	NME
+2021/2/25	D11988	M09AX13	Casimersen	Amondys 45	Sarepta Therapeutics Inc	NME
+2021/2/12	D11987	V03AF12	Trilaciclib dihydrochloride	Cosela	G1 Therapeutics Inc	NME
+2021/2/11	D11753	C10AX17	Evinacumab	Evkeeza	Fierce Pharma	BLA
+2021/2/5	D11323	L01EX25	Umbralisib tosylate	Ukoniq	TG Therapeutics Inc	NME
+2021/2/3	D11073	L01EX21	Tepotinib hydrochloride	Tepmetko	EMD Serono Inc	NME
+2021/1/22	D09033	L04AD03	Voclosporin	Lupkynis	Aurinia Pharmaceuticals	NME
+2021/1/21	D11966		Cabotegravir and rilpivirine	Cabenuva	Viiv Healthcare	
+2021/1/19	D11051	C01DX22	Vericiguat	Verquvo	Merck Sharp Dohme	NME
+2020/12/23	D10433	(G04BD15)	Vibegron	Gemtesa	Urovant Sciences Inc	NME
+2020/12/18	D12114	J07BN01	COVID-19 mRNA vaccine (nucleoside-modified)	Moderna COVID-19 Vaccine	ModernaTX Inc	EUA
+2020/12/11	D11971	J07BN01	COVID-19 mRNA vaccine (nucleoside-modified)	Pfizer-BioNTech COVID-19 Vaccine	Pfizer Inc	EUA
+2020/12/21	D11875	J06BD04	Ansuvimab	Ebanga	Ridgeback Biotherapeutics	BLA
+2020/12/18	D10888	L02BX04	Relugolix	Orgovyx	Myovant Sciences Inc	NME
+2020/12/16	D10446	L01FD06	Margetuximab	Margenza	MacroGenics Inc	BLA
+2020/12/14	D11691	D06BX03	Tirbanibulin	Klisyri	Almirall LLC	NME
+2020/12/3	D11674	B06AC06	Berotralstat dihydrochloride	Orladeyo	BioCryst Pharmaceuticals	NME
+2020/12/1			Gallium 68 PSMA-11	Gallium 68 PSMA-11	University of California	NME
+2020/11/25	D11416	L01FX21	Naxitamab	Danyelza	Y-mabs Therapeutics	BLA
+2020/11/25	D11928	A08AA12	Setmelanotide acetate	Imcivree	Rhythm Pharmaceuticals	NME
+2020/11/23	D11926	A16AX18	Lumasiran sodium	Oxlumo	Alnylam Pharms	NME
+2020/11/21	D12142	J06BD07	Casirivimab and imdevimab	Regen-cov	Regeneron Pharmaceuticals	
+2020/11/20	D04768	A16AX20	Lonafarnib	Zokinvy	Eiger Biopharms	NME
+2020/10/22	D11472	J05AB16	Remdesivir	Veklury	Gilead Sciences	NME
+2020/10/14	D11922		Atoltivimab, maftivimab and odesivimab	Inmazeb	Regeneron Pharmaceuticals	BLA
+2020/9/4	D11712	L01EX23	Pralsetinib	Gavreto	Blueprint Medicines	NME
+2020/9/3	D11882	V09IX15	Copper Cu 64 dotatate	Detectnet	Radiomedix Inc	NME
+2020/8/28	D11194	H01AC07	Somapacitan	Sogroya	Novo Nordisk Inc	BLA
+2020/8/26	D11451	D10AX06	Clascoterone	Winlevi	Cassiopea	NME
+2020/8/14	D11079	L04AC19	Satralizumab	Enspryng	Genentech	BLA
+2020/8/12	D11528	M09AX12	Viltolarsen	Viltepso	NS Pharma	NME
+2020/8/7	D11214	N02AX07	Oliceridine	Olinvyk	Trevena	NME
+2020/8/7	D11406	M09AX10	Risdiplam	Evrysdi	Genentech	NME
+2020/8/6	D00833	P01CC01	Nifurtimox	Lampit	Bayer Healthcare Pharmaceuticals	NME
+2020/8/5	D11595	L01FX15	Belantamab mafodotin	Blenrep	GlaxoSmithKline	BLA
+2020/7/31	D11601	L01FX12	Tafasitamab	Monjuvi	MorphoSys AG	BLA
+2020/7/24	D10687	P03AX07	Abametapir	Xeglyze	Dr. Reddy's Laboratories	NME
+2020/7/7	D11848		Decitabine and cedazuridine	Inqovi	Otsuka Pharmaceutical	
+2020/7/2	D10708	J05AX29	Fostemsavir tromethamine	Rukobia	Viiv Healthcare	NME
+2020/7/2	D10194	N05CD14	Remimazolam besylate	Byfavo	Cosmo Technologies	NME
+2020/6/30	D11465	A16AX17	Triheptanoin	Dojolvi	Ultragenyx Pharmaceutical	NME
+2020/6/15	D11644	L01XX69	Lurbinectedin	Zepzelca	Pharma Mar USA	NME
+2020/6/11	D11757	L04AA47	Inebilizumab	Uplinza	Viela Bio	BLA
+2020/5/28	D11210	V09AX07	Flortaucipir F 18	Tauvid	Avid Radiopharmaceuticals	NME
+2020/5/26	D02482	P01BE03	Artesunate	Artesunate	Amivas	NME
+2020/5/20	D11829	V09IX11	Fluoroestradiol F18	Cerianna	Zionexa	NME
+2020/5/15	D11353	L01EX19	Ripretinib	Qinlock	Deciphera Pharmaceuticals	NME
+2020/5/8	D11713	L01EX22	Selpercatinib	Retevmo	Loxo Oncology	NME
+2020/5/6	D10891	L01EX17	Capmatinib hydrochloride	Tabrecta	Novartis Pharmaceuticals	NME
+2020/4/24	D10825	N04BX04	Opicapone	Ongentys	Neurocrine Biosciences	NME
+2020/4/22	D10985	L01FX17	Sacituzumab govitecan	Trodelvy	Immunomedics	BLA
+2020/4/17	D11417	L01EN02	Pemigatinib	Pemazyre	Incyte	NME
+2020/4/17	D11141	L01EH03	Tucatinib	Tukysa	Seattle Genetics	NME
+2020/4/10	D10024	L01EE04	Selumetinib sulfate	Koselugo	AstraZeneca Pharmaceuticals	NME
+2020/3/25	D10967	L04AA38	Ozanimod hydrochloride	Zeposia	Celgene	NME
+2020/3/6	D11062	H02CA02	Osilodrostat phosphate	Isturisa	Novartis Pharmaceuticals	NME
+2020/3/2	D11050	L01FC02	Isatuximab	Sarclisa	Sanofi Aventis US	BLA
+2020/2/27	D10663	N02CD06	Rimegepant sulfate	Nurtec ODT	Biohaven Pharma	NME
+2020/2/26	D07310	N05AL05	Amisulpride	Barhemsys	Acacia Pharma	NME
+2020/2/21	D11303	N02CD05	Eptinezumab	Vyepti	Lundbeck Seattle BioPharmaceuticals	BLA
+2020/2/21	D10691	C10AX15	Bempedoic acid	Nexletol	Esperion Therapeutics	NME
+2020/2/12	D08266	A06AD12	Lactitol	Pizensy	Braintree Labs	
+2020/1/23	D11485	L01XX72	Tazemetostat hydrobromide	Tazverik	Epizyme	NME
+2020/1/21	D09680	L04AA53	Teprotumumab	Tepezza	Horizon Therapeutics	BLA
+2020/1/9	D11279	L01EX18	Avapritinib	Ayvakit	Blueprint Medicines	NME
+2019/12/23	D10673	N02CD04	Ubrogepant	Ubrelvy	Allergan	NME
+2019/12/20	D11529	L01FD04	Trastuzumab deruxtecan	Enhertu	Daiichi Sankyo	BLA
+2019/12/20	D11022	N05CM21	Lemborexant	Dayvigo	Eisai	NME
+2019/12/20	D11170	N05AD10	Lumateperone tosylate	Caplyta	Intra-cellular therapies	NME
+2019/12/20	D10799		Brilliant blue G	Tissueblue	Dutch Ophthalmic Research Center	NME
+2019/12/18	D11525	L01FX13	Enfortumab vedotin	Padcev	Astellas Pharma	BLA
+2019/12/12	D11707	M09AX08	Golodirsen	Vyondys 53	Sarepta Therapeutics	NME
+2019/11/25	D11330	B06AX03	Voxelotor	Oxbryta	Global Blood Therapeutics	NME
+2019/11/21	D11150	N03AX25	Cenobamate	Xcopri	SK Life Science	NME
+2019/11/20	D11708	A16AX16	Givosiran sodium	Givlaari	Alnylam Pharmaceuticals	NME
+2019/11/15	D11480	B06AX01	Crizanlizumab	Adakveo	Novartis Pharmaceuticals	BLA
+2019/11/14	D11013	J01DI04	Cefiderocol sulfate tosylate	Fetroja	Shionogi	NME
+2019/11/14	D11422	L01EL03	Zanubrutinib	Brukinsa	BeiGne	NME
+2019/11/8	D11701	B03XA06	Luspatercept	Reblozyl	Celgene	BLA
+2019/10/21	D11700	R07AX32	Elexacaftor, ivacaftor and tezacaftor	Trikafta	Vertex Pharmaceuticals	NME
+2019/10/11	D10424	N02CC08	Lasmiditan succinate	Reyvow	Eli Lilly	NME
+2019/10/10	D04220	V09IX05	Fluorodopa F 18	Fluorodopa F 18	Feinstein	NME
+2019/10/8	D11334	D02BB02	Afamelanotide acetate	Scenesse	Clinuvel	NME
+2019/10/7	D11083	S01LA06	Brolucizumab	Beovu	Novartis Pharmaceuticals	BLA
+2019/10/4	D11225	D10AD06	Trifarotene	Aklief	Galderma Research and Development	NME
+2019/9/12	D11653	A06AX08	Tenapanor hydrochloride	Ibsrela	Ardelyx	NME
+2019/8/27	D04641	N04CX01	Istradefylline	Nourianz	Kyowa Kirin	NME
+2019/8/21	D11651	V09IX09	Edotreotide gallium Ga-68	Ga-68-dotatoc	Univ Iowa Hosps and Clinics Pet Imaging Center	NME
+2019/8/19	D11632	J01XX12	Lefamulin	Xenleta	Nabriva Therapeutics	NME
+2019/8/16	D11048	L04AA44	Upadacitinib hemihydrate	Rinvoq	AbbVie	NME
+2019/8/16	D11296	L01EJ02	Fedratinib hydrochloride	Inrebic	Impact Biomedicines	NME
+2019/8/15	D10926	L01EX14	Entrectinib	Rozlytrek	Genentech	NME
+2019/8/14	D10722	J04AK08	Pretomanid	Pretomanid	Global Alliance for TB Drug Development	NME
+2019/8/2	D11271	L01EX15	Pexidartinib hydrochloride	Turalio	Daiichi Sankyo	NME
+2019/7/30	D11045	L02BB06	Darolutamide	Nubeqa	Bayer Healthcare Pharmaceuticals	NME
+2019/7/25	D10833	B03AB10	Ferric maltol	Accrufer	Shield therapeutics	NME
+2019/7/16	D11621	J01DH56	Imipenem, cilastatin and relebactam	Recarbrio	Merck	NME
+2019/7/3	D11222	L01XX66	Selinexor	Xpovio	Karyopharm Therapeutics	NME
+2019/6/21	D06569	G02CX05	Bremelanotide	Vyleesi	Amg Pharmaceuticals	NME
+2019/6/10	D10761	L01FX14	Polatuzumab vedotin	Polivy	Genentech	BLA
+2019/5/24	D11011	L01EM03	Alpelisib	Piqray	Novartis Pharmaceuticals	NME
+2019/5/3	D09674	N07XX08	Tafamidis meglumine	Vyndaqel	FoldRx	NME
+2019/4/23	D11052	L04AC18	Risankizumab	Skyrizi	AbbVie	BLA
+2019/4/12	D10927	L01EN01	Erdafitinib	Balversa	Janssen Biotech	NME
+2019/4/9	D10156	M05BX06	Romosozumab	Evenity	Amgen	BLA
+2019/3/26	D11072	L04AA42	Siponimod fumarate	Mayzent	Novartis Pharmaceuticals	NME
+2019/3/20	D11328	N06BA14	Solriamfetol hydrochloride	Sunosi	Jazz Pharmaceuticals	NME
+2019/3/19	D11149	(N06AX29)	Brexanolone	Zulresso	Sage Therapeutics	NME
+2019/2/13	D07364	P02BX04	Triclabendazole	Egaten	Novartis Pharmaceuticals	NME
+2019/2/6	D11160	B01AX07	Caplacizumab	Cablivi	Ablynx	BLA
+2019/2/1	D11405	M03AX01	Prabotulinumtoxin A	Jeuvea	Evolus	BLA
+2018/12/21	D11054	L04AA43	Ravulizumab	Ultomiris	Alexion Pharmaceuticals	BLA
+2018/12/21	D11358	L01XX67	Tagraxofusp	Elzonris	Stemline Therapeutics	BLA
+2018/12/20	D10096		Calaspargase pegol	Asparlas	Servier Pharmaceuticals LLC	BLA
+2018/12/14	D10152	A06AX05	Prucalopride succinate	Motegrity	Shire Development LLC	NME
+2018/11/28	D10800	L01EX13	Gilteritinib fumarate	Xospata	Astellas Pharma	NME
+2018/11/26	D11138	L01EX12	Larotrectinib sulfate	Vitrakvi	Loxo Oncology	NME
+2018/11/21	D11107	L01XJ03	Glasdegib maleate	Daurismo	Pfizer	NME
+2018/11/20	D11120	L04AA39	Emapalumab	Gamifant	Novimmune SA	BLA
+2018/11/16	D08480	A07AA13	Rifamycin sodium	Aemcolo	Cosmo Technologies	NME
+2018/11/8	D10978	R03BB08	Revefenacin	Yupelri	Theravance Biopharma	NME
+2018/11/2	D11012	L01ED05	Lorlatinib	Lorbrena	Pfizer	NME
+2018/10/24	D11021	J05AX25	Baloxavir marboxil	Xofluza	Shionogi	NME
+2018/10/16	D10733	L01XK04	Talazoparib tosylate	Talzenna	Pfizer	NME
+2018/10/5	D10941	N07XX15	Inotersen sodium	Tegsedi	Ionis Pharmaceuticals	NME
+2018/10/5	D11017	L03AX21	Elapegademase	Revcovi	Leadiant Biosciences	BLA
+2018/10/3	D09940	J01AA15	Omadacycline tosylate	Nuzyra	Paratek Pharmaceutical	NME
+2018/10/1	D10666	J01AA14	Sarecycline	Seysara	Allergan plc and Paratek Pharmaceuticals	NME
+2018/9/28	D11108	L01FF06	Cemiplimab	Libtayo	Regeneron Pharmaceuticals	BLA
+2018/9/27	D10514	L01EB07	Dacomitinib	Vizimpro	Pfizer	NME
+2018/9/27	D10936	N02CD02	Galcanezumab	Emgality	Eli Lilly	BLA
+2018/9/24	D11658	L01EM04	Duvelisib	Copiktra	Verastem Inc	NME
+2018/9/14	D11055	N02CD03	Fremanezumab	Ajovy	Teva Pharmaceuticals	BLA
+2018/9/13	D09932	L01FB02	Moxetumomab pasudotox	Lumoxiti	AstraZeneca Pharmaceuticals	BLA
+2018/8/30	D10624	J05AG06	Doravirine	Pifeltro	Merck Sharp Dohme	NME
+2018/8/23	D11094	B06AC05	Lanadelumab	Takhzyro	Dyax Corporation	BLA
+2018/8/22	D11028	S01XA24	Cenegermin	Exervate	Dompé farmaceutici SpA	BLA
+2018/8/20	D05928	N03AX17	Stiripentol	Diacomit	Biocodex SA	NME
+2018/8/10	D05031	A16AX14	Migalastat hydrochloride	Galafold	Amicus Therapeutics US	NME
+2018/8/10			Segesterone acetate and ethinyl estradiol vaginal system	Annovera	The Population Council	
+2018/8/10	D10794	N07XX12	Patisiran sodium	Onpattro	Alnylam Pharmaceuticals	NME
+2018/8/8	D09761	L01FX09	Mogamulizumab	Poteligeo	Kyowa Kirin	BLA
+2018/7/31	D10476	B02BX07	Lusutrombopag	Mulpleta	Shionogi	NME
+2018/7/27			Fish oil triglycerides	Omegaven	Fresenius Kabi USA	
+2018/7/23	D09336	H01CC03	Elagolix sodium	Orilissa	AbbVie	NME
+2018/7/20	D10670	P01BA07	Tafenoquine succinate	Krintafel	GlaxoSmithKline	NME
+2018/7/20	D11090	L01XX62	Ivosidenib	Tibsovo	Agios Pharmaceuticals	NME
+2018/7/13	D09390	J05AX24	Tecovirimat	TPOXX	SIGA Technologies	NME
+2018/6/27	D11053	L01EC03	Encorafenib	Braftovi	Array BioPharma	NME
+2018/6/27	D10604	L01EE03	Binimetinib	Mektovi	Array BioPharma	NME
+2018/6/25	D10655	J01GB14	Plazomicin sulfate	Zemdri	Achaogen	NME
+2018/6/25	D10915	N03AX24	Cannabidiol	Epidiolex	GW Research	NME
+2018/5/31	D10308	L04AA37	Baricitinib	Olumiant	Eli Lilly	NME
+2018/5/24	D11077	A16AB19	Pegvaliase	Palynziq	BioMarin Pharmaceutical	BLA
+2018/5/21	D10307	B02BX08	Avatrombopag maleate	Doptelet	AkaRx	NME
+2018/5/18	D10727	V03AE10	Sodium zirconium cyclosilicate	Lokelma	AstraZeneca Pharmaceuticals	NME
+2018/5/17	D10928	N02CD01	Erenumab	Aimovig	Amgen	BLA
+2018/4/19	D10572	A04AA55	Fosnetupitant and palonosetron hydrochloride	Akynzeo	Helsinn Healthcare	
+2018/4/17	D10913	M05BX05	Burosumab	Crysvita	Ultragenyx Pharmaceutical	BLA
+2018/4/17	D09348	B02BX09	Fostamatinib disodium hexahydrate	Tavalisse	Rigel Pharmaceuticals	NME
+2018/3/20	D10400	L04AC17	Tildrakizumab	Ilumya	Merck Sharp Dohme	BLA
+2018/3/6	D09575	J05AX23	Ibalizumab	Trogarzo	TaiMed Biologics USA	BLA
+2018/2/14	D11040	L02BB05	Apalutamide	Erleada	Janssen Biotech	NME
+2018/2/13	D11042	R07AX31	Tezacaftor - Ivacaftor	Symdeko	Vertex Pharmaceuticals	NME
+2018/2/7	D11039	J05AR20	Bictegravir, embitcitabine and tenofovir alafenamide	Biktarvy	Gilead Sciences	NME
+2018/1/26	D11033	V10XX04	Lutetium (177Lu) dotatate	Lutathera	Advanced Accelerator Applications	NME
+2017/12/21	D00150	C01CX09	Angiotensin II	Giapreza	La Jolla Pharmaceutical	NME
+2017/12/20	D11043	A10BK04	Ertugliflozin	Steglatro	Merck Sharp Dohme	NME
+2017/12/20	D10562	V04CD06	Macimorelin acetate	Macrilen	Aeterna Zentaris GmbH	NME
+2017/12/18	D11031	S01EX05	Netarsudil mesylate	Rhopressa	Aerie Pharmaceuticals	NME
+2017/12/11	D09544	D06AX14	Ozenoxacin	Xepi	Ferrer Internacional S.A.	NME
+2017/12/5	D10025	A10BJ06	Semaglutide	Ozempic	Novo Nordisk Inc	NME
+2017/11/16	D10821	B02BX06	Emicizumab	Hemlibra	Genentech	BLA
+2017/11/15	D11004	A16AB18	Vestronidase alfa	Mepsevii	Ultragenyx Pharmaceutical	BLA
+2017/11/14	D09874	R03DX10	Benralizumab	Fasenra	AstraZeneca AB	BLA
+2017/11/8	D10801	J05AX18	Letermovir	Prevymis	Merck Sharp Dohme	NME
+2017/11/2	D10441	S01EE06	Latanoprostene bunod	Vyzulta	Bausch & Lomb Incorporated	NME
+2017/10/31	D10893	L01EL02	Acalabrutinib	Calquence	AstraZeneca Pharmaceuticals LP	NME
+2017/9/28	D10688	L01EF03	Abemaciclib	Verzenio	Eli Lilly	NME
+2017/9/15	D07353	P01AB07	Secnidazole	Solosec	Symbiomix Therapeutics	NME
+2017/9/14	D10867	L01EM02	Copanlisib	Aliqopa	Bayer Healthcare Pharmaceuticals	NME
+2017/8/29	D02489	P01CA02	Benznidazole	Benznidazole	Chemo Research	NME
+2017/8/29	D11015	J01DH52	Meropenem ane vaborbactam	Vabomere	Rempex Pharmaceuticals	NME
+2017/8/17	D08933	L01FB01	Inotuzumab ozogamicin	Besponsa	Wyeth Pharmaceuticals	BLA
+2017/8/3	D11014	J05AP57	Glecaprevir and pibrentasvir	Mavyret	AbbVie	NME
+2017/8/1	D11044	L01XX59	Enasidenib	Idhifa	Celgene Corporation	NME
+2017/7/18	D10900	J05AP56	Sofosbuvir, velpatasvir and voxilaprevir	Vosevi	Gilead Sciences	NME
+2017/7/17	D10898	L01EH02	Neratinib maleate	Nerlynx	Puma Biotechnology	NME
+2017/7/13	D10438	L04AC16	Guselkumab	Tremfya	Janssen Biotech	BLA
+2017/6/23	D08873	B01AF04	Betrixaban	Bevyxxa	Portola Pharmaceuticals	NME
+2017/6/19	D09331	J01MA23	Delafloxacin meglumine	Baxdela	Melinta Therapeutics	NME
+2017/5/22	D10161	L04AC14	Sarilumab	Kevzara	Sanofi Synthelabo	BLA
+2017/5/5	D01552	N07XX14	Edaravone	Radicava	Mitsubishi Tanabe Pharma America	NME
+2017/5/1	D10808	L01FF03	Durvalumab	Imfinzi	AstraZeneca UK	BLA
+2017/4/28	D10885	H05AA04	Abaloparatide	Tymlos	Radius Health	NME
+2017/4/28	D05029	L01EX10	Midostaurin	Rydapt	Novartis Pharmaceuticals	NME
+2017/4/28	D10866	L01ED04	Brigatinib	Alunbrig	Ariad Pharmaceuticals	NME
+2017/4/27	D10813	A16AB17	Cerliponase alfa	Brineura	BioMarin Pharmaceutical	BLA
+2017/4/11	D10999	N07XX13	Valbenazine tosylate	Ingrezza	Neurocrine Biosciences	NME
+2017/4/3	D10701	(N07XX16)	Deutetrabenazine	Austedo	Teva Pharmaceuticals	NME
+2017/3/28	D05218	L04AA36	Ocrelizumab	Ocrevus	Genentech	BLA
+2017/3/28	D10354	D11AH05	Dupilumab	Dupixent	Regeneron Pharmaceuticals	BLA
+2017/3/27	D11895	L01XK02	Niraparib tosylate	Zejula	Tesaro	NME
+2017/3/23	D10478	A06AH05	Naldemedine tosylate	Symproic	Shionogi	NME
+2017/3/23	D10817	L01FF04	Avelumab	Bavencio	EMD Serono	BLA
+2017/3/23	D10191	N04BD03	Safinamide mesylate	Xadago	Newron Pharmaceuticals	NME
+2017/3/21	D10979	L01EF02	Ribociclib succinate	Kisqali	Novartis Pharmaceuticals	NME
+2017/2/28	D09974	A16AX15	Telotristat ethyl	Xermelo	Lexicon Pharmaceuticals	NME
+2017/2/15	D10061	L04AC12	Brodalumab	Siliq	Valeant Pharmaceuticals	BLA
+2017/2/9	D03671	H02AB13	Deflazacort	Emflaza	Marathon Pharmaceuticals	NME
+2017/2/8	D10677	H05BX04	Etelcalcetide hydrochloride	Parsavib	KAI Pharmaceuticals	NME
+2017/1/19	D09948	A06AX07	Plecanatide	Trulance	Synergy Pharmaceuticals	NME
+2016/12/23	D10791	M09AX07	Nusinersen sodium	Spinraza	Biogen	NME
+2016/12/19	D10982	L01XK03	Rucaparib camsylate	Rubraca	Clovis Oncology	NME
+2016/12/14	D10873	D11AH06	Crisaborole	Eucrisa	Anacor Pharmaceuticals	NME
+2016/10/21	D10453	J06BC03	Bezlotoxumab	Zinplava	Merck Sharp Dohme	BLA
+2016/10/19	D09939	L01FX10	Olaratumab	Lartruvo	Eli Lilly	BLA
+2016/9/19	D09900	M09AX06	Eteplirsen	Exondys 51	Sarepta Therapeutics	NME
+2016/7/27	D09729	A10BJ03	Lixisenatide	Adlyxin	Sanofi-Aventis US	NME
+2016/7/11	D10374	S01XA25	Lifitegrast ophthalmic solution	Xiidra	Shire Development LLC	NME
+2016/6/28	D10827	J05AP55	Sofosbuvir and velpatasvir	Epclusa	Gilead Sciences	NME
+2016/6/1			Gallium Ga 68 dotatate	Netspot	AAA USA Inc	
+2016/5/27	D09360	A05AA04	Obeticholic acid	Ocaliva	Intercept Pharmaceuticals	NME
+2016/5/27	D03639	L04AC01	Daclizumab	Zinbryta	Biogen	BLA
+2016/5/18	D10773	L01FF05	Atezolizumab	Tecentriq	Genentech	BLA
+2016/4/29	D08969	N05AX17	Pimavanserin	Nuplazid	ACADIA Pharmaceuticals	NME
+2016/4/11	D10679	L01XX52	Venetoclax	Venclexta	AbbVie	NME
+2016/3/30	D07423	B01AX01	Defibrotide sodium	Defitelio	Gentium SPA	NME
+2016/3/23	D08985	R03DX08	Reslizumab	Cinqair	Teva Pharmaceuticals	BLA
+2016/3/22	D10071	L04AC13	Ixekizumab	Taltz	Eli Lilly	BLA
+2016/3/21	D10776	J06BC04	Obiltoxaximab	Anthim	Elusys Therapeutics	BLA
+2016/2/18	D08879	N03AX23	Brivaracetam	Briviact	UCB Inc	NME
+2016/1/28	D10778	J05AP54	Elbasvir and grazoprevir	Zepatier	Merck Sharp Dohme	NME
+2015/12/22	D09921	M04AB05	Lesinurad	Zurampic	Ardea Biosciences	NME
+2015/12/22	D09994	B01AC27	Selexipag	Uptravi	Actelion Pharmaceuticals Ltd	NME
+2015/12/15	D05940	V03AB35	Sugammadex	Bridion	Organon Sub Merck	NME
+2015/12/11	D10450	L01ED03	Alectinib	Alecensa	Genentech	NME
+2015/12/8	D10377	A16AB14	Sebelipase alfa	Kanuma	Alexion Pharmaceuticals	BLA
+2015/11/30	D09337	L01FX08	Elotuzumab	Empliciti	Bristol-Myers Squibb	BLA
+2015/11/24	D10018	L01FE03	Necitumumab	Portrazza	Eli Lilly	BLA
+2015/11/20	D10131	L01XG03	Ixazomib	Ninlaro	Millennium Pharmaceuticals	NME
+2015/11/16	D10777	L01FC01	Daratumumab	Darzalex	Janssen Biotech	BLA
+2015/11/13	D10766	L01EB04	Osimertinib	Tagrisso	AstraZeneca Pharmaceuticals	NME
+2015/11/10	D10615	L01EE02	Cobimetinib	Cotellic	Genentech	NME
+2015/11/5	D10755	J05AR18	Elvitegravir, cobicistat, emtricitabine and tenofovir alafenamide	Genvoya	Gilead Sciences	NME
+2015/11/4	D04923	R03DX09	Mepolizumab	Nucala	GlaxoSmithKline	BLA
+2015/10/23	D10595	A16AB13	Asfotase alfa	Strensiq	Alexion Pharmaceuticals	BLA
+2015/10/23	D06199	L01CX01	Trabectedin	Yondelis	Janssen Products	NME
+2015/10/21	D11037	V03AE09	Patiromer sorbitex calcium	Veltassa	Relypsa Inc	NME
+2015/10/16	D10741	V03AB37	Idarucizumab	Praxbind	Boehringer Ingelheim	BLA
+2015/10/6	D10364	N05AX12	Aripiprazole lauroxil	Aristada	Alkermes	NME
+2015/9/25	D09727	A10AE06	Insulin degludec	Tresiba	Novo Nordisk Inc	NME
+2015/9/22	D10526	L01BC59	Trifluridine and tipiracil hydrochloride	Lonsurf	Taiho Oncology	NME
+2015/9/17	D09876	N05AX15	Cariprazine	Vraylar	Forest Research Institute	NME
+2015/9/4	D09985	A16AX13	Uridine triacetate	Xuriden	Wellstat Therapeutics	NME
+2015/9/2	D08988	A04AD14	Rolapitant hydrochloride	Varubi	Tesaro Inc	NME
+2015/8/27	D10557	C10AX13	Evolocumab	Repatha	Amgen	BLA
+2015/8/18	D02577	G02CX02	Flibanserin	Addyi	Sprout Pharmaceuticals	NME
+2015/7/24	D10105	J05AP07	Daclatasvir	Daklinza	Bristol-Myers Squibb	NME
+2015/7/24	D10729	L01XJ02	Sonidegib	Odomzo	Novartis Pharmaceuticals	NME
+2015/7/24	D10335	C10AX14	Alirocumab	Praluent	Sanofi-Aventis	BLA
+2015/7/10	D10309	N05AX16	Brexpiprazole	Rexulti	Otsuka Pharmaceutical	NME
+2015/7/7	D10226	C09DX04	Sacubitril - Valsartan	Entresto	Novartis Pharmaceuticals	NME
+2015/7/2	D10685	R07AX30	Lumacaftor and ivacaftor	Orkambi	Vertex Pharmaceuticals	NME
+2015/6/22	D03359	B01AC25	Cangrelor	Kengreal	Medicines Company	NME
+2015/5/27	D10403	A07DA06	Eluxadoline	Viberzi	Furiex Pharmaceuticals	NME
+2015/4/29	D10781	D11AX24	Deoxycholic acid	Kybella	Kythera Biopharmaceuticals	NME
+2015/4/15	D08095	C01EB17	Ivabradine	Corlanor	Amgen	NME
+2015/3/17	D10699	A05AA03	Cholic acid	Cholbam	Asklepion Pharmaceuticals LLC	NME
+2015/3/10	D10559	L01FX06	Dinutuximab	Unituxin	United Therapies	BLA
+2015/3/6	D10643		Isavuconazonium sulfate	Cresemba	Astellas	NME
+2015/2/25	D10779	J01DD52	Ceftazidime-avibactam	Avycaz	Cerexa	NME
+2015/2/23	D10019	L01XH03	Panobinostat	Farydak	Novartis Pharmaceuticals	NME
+2015/2/13	D09920	L01EX08	Lenvatinib	Lenvima	Eisai	NME
+2015/2/3	D10372	L01EF01	Palbociclib	Ibrance	Pfizer	NME
+2015/1/23	D05364	H05AA03	Parathyroid hormone	Natpara	NPS Pharmaceuticals	BLA
+2015/1/21	D09967	L04AC10	Secukinumab	Cosentyx	Novartis Pharmaceuticals	BLA
+2015/1/8	D09546	B01AF03	Edoxaban	Savaysa	Daiichi Sankyo	NME
+2014/12/22	D10316	L01FF01	Nivolumab	Opdivo	Bristol-Myers Squibb	BLA
+2014/12/19	D03829	J05AH03	Peramivir	Rapivab	BioCryst	NME
+2014/12/19	D10577	J01DI54	Ceftolozane - Tazobactam	Zerbaxa	Cubist Pharmaceuticals	NME
+2014/12/19	D10582	J05AP52	Ombitasvir - Paritaprevir - Ritonavir with Dasabuvir	Viekira Pak	AbbVie	NME
+2014/12/19	D09730	L01XK01	Olaparib	Lynparza	AstraZeneca Pharmaceuticals	NME
+2014/12/17	D10575		Finafloxacin otic suspension	Xtoro	Alcon Research Ltd	NME
+2014/12/3	D09325	L01FX07	Blinatumomab	Blincyto	Amgen	BLA
+2014/10/15	D01583	L04AX05	Pirfenidone	Esbriet	InterMune	NME
+2014/10/15	D10396	L01EX09	Nintedanib esylate	Ofev	Boehringer Ingelheim	NME
+2014/10/10	D05962	V08DA05	Sulfur hexafluoride lipid microsphere	Lumason	Bracco Diagnostics	
+2014/10/10	D10572	A04AA55	Netupitant - Palonosetron	Akynzeo	Helsinn Healthcare	NME
+2014/10/10	D10578	J05AP51	Ledipasvir - Sofosbuvir	Harvoni	Gilead Sciences	NME
+2014/9/18	D09889	A10BJ05	Dulaglutide	Trulicity	Eli Lilly	BLA
+2014/9/16	D10375	A06AH03	Naloxegol oxalate	Movantik	AstraZeneca Pharmaceuticals	NME
+2014/9/4	D10574	L01FF02	Pembrolizumab	Keytruda	Merck Sharp Dohme	BLA
+2014/8/19	D09894	A16AX10	Eliglustat	Cerdelga	Genzyme	NME
+2014/8/15	D10483	L03AB13	Peginterferon beta-1a	Plegridy	Biogen Idec Inc	BLA
+2014/8/13	D10082	N05CM19	Suvorexant	Belsomra	Merck Sharp Dohme	NME
+2014/8/6	D05271	J01XA05	Oritavancin	Orbactiv	Medicines Company	NME
+2014/8/1	D10459	A10BK03	Empagliflozin	Jardiance	Boehringer Ingelheim	NME
+2014/7/31	D10020	R03AC19	Olodaterol hydrochloride	Striverdi Respimat	Boehringer Ingelheim	NME
+2014/7/23	D10560	L01EM01	Idelalisib	Zydelig	Gilead Sciences	NME
+2014/7/7	D10169	D01AE24	Tavaborole	Kerydin	Anacor Pharmaceuticals	NME
+2014/7/3	D08870	L01XH04	Belinostat	Beleodaq	Spectrum Pharmaceuticals	NME
+2014/6/20	D09686	J01XX11	Tedizolid phosphate	Sivextro	Cubist Pharmaceuticals	NME
+2014/6/6	D10021	D01AC19	Efinaconazole	Jublia	Dow Pharmaceutical	NME
+2014/5/23	D03640	J01XA04	Dalbavancin	Dalvance	Durata Therapeutics International	NME
+2014/5/20	D08083	L04AA33	Vedolizumab	Entyvio	Takeda Pharmaceuticals USA	BLA
+2014/5/8	D09766	B01AC26	Vorapaxar	Zontivity	Merck Sharp Dohme	NME
+2014/4/29	D10551	L01ED02	Ceritinib	Zykadia	Novartis Pharmaceuticals	NME
+2014/4/23	D09669	L04AC11	Siltuximab	Sylvant	Janssen Biotech	BLA
+2014/4/21	D09371	L01FG02	Ramucirumab	Cyramza	Eli Lilly	BLA
+2014/4/15	D08843	A10BJ04	Albiglutide	Tanzeum	GlaxoSmithKline	BLA
+2014/3/21	D08860	L04AA32	Apremilast	Otezla	Celgene	NME
+2014/3/19	D02494	P01CX04	Miltefosine	Impavido	Knight Therapeutics	NME
+2014/3/19	D10002	V09AX06	Florbetaben F18	Neuraceq	Piramal Imaging	NME
+2014/2/24	D05014	A16AA07	Metreleptin	Myalept	Amylin Pharmaceuticals LLC	BLA
+2014/2/18	D01277	C01CA27	Droxidopa	Northera	Lundbeck NA Ltd	NME
+2014/2/14	D10333	A16AB12	Elosulfase alfa	Vimizim	BioMarin Pharmaceutical	BLA
+2014/1/31	D09388	N05CH03	Tasimelteon	Hetlioz	Vanda Pharmaceuticals	NME
+2014/1/8	D09763	A10BK01	Dapagliflozin	Farxiga	AstraZeneca AB	NME
+2013/12/18	D10533	R03AL03	Umeclidinium - Vilanterol	Anoro Ellipta	GlaxoSmithKline	NME
+2013/12/6	D10366	J05AP08	Sofosbuvir	Sovaldi	Gilead Sciences	NME
+2013/11/22	D10469	J05AP05	Simeprevir sodium	Olysio	Janssen Products	NME
+2013/11/14	D01980	D01AC18	Luliconazole	Luzu	Medicis	NME
+2013/11/13	D10223	L01EL01	Ibrutinib	Imbruvica	Pharmacyclics	NME
+2013/11/8	D09612	N03AF04	Eslicarbazepine acetate	Aptiom	Sunovion Pharmaceuticals	NME
+2013/11/1	D09321	L01FA03	Obinutuzumab	Gazyva	Genentech	BLA
+2013/10/25	D10231	V09AX04	Flutemetamol F18	Vizamyl	GE Healthcare	NME
+2013/10/18	D10135	C02KX04	Macitentan	Opsumit	Actelion Pharmaceuticals Ltd	NME
+2013/10/8	D09572	C02KX05	Riociguat	Adempas	Bayer HealthCare	NME
+2013/10/3	D10579	G03CC07	Conjugated estrogens - Bazedoxifene	Duavee	Wyeth Pharmaceuticals Pfizer	NME
+2013/9/30	D10185	N06AX26	Vortioxetine	Brintellix	Takeda Pharmaceuticals USA	NME
+2013/8/12	D10113	J05AJ03	Dolutegravir	Tivicay	ViiV Healthcare	NME
+2013/7/12	D09733	L01EB03	Afatinib	Gilotrif	Boehringer Ingelheim	NME
+2013/5/29	D10176	L01EE01	Trametinib	Mekinist	GlaxoSmithKline	NME
+2013/5/29	D10104	L01EC02	Dabrafenib	Tafinlar	GlaxoSmithKline	NME
+2013/5/15	D10398	V10XX03	Radium-223 dichloride	Xofigo	Bayer HealthCare	NME
+2013/5/10	D10501	R03AK10	Fluticasone furoate - Vilanterol	Breo Ellipta	Glaxo Group Ltd	NME
+2013/3/29	D09592	A10BK02	Canagliflozin	Invokana	Janssen Pharmaceuticals	NME
+2013/3/27	D03846	L04AX07	Dimethyl fumarate	Tecfidera	Biogen Idec Inc	NME
+2013/3/20	D03355	V08CA02	Gadoterate meglumine	Dotarem	Guerbet	NME
+2013/3/13	D11543	V09IA09	Technetium Tc 99m tilmanocept	Lymphoseek	Navidea Biopharmaceuticals	
+2013/2/26	D08958	G03XC05	Ospemifene	Osphena	Shionogi	NME
+2013/2/22	D09980	L01FD03	Ado-trastuzumab emtansine	Kadcyla	Genentech	BLA
+2013/2/8	D08976	L04AX06	Pomalidomide	Pomalyst	Celgene	NME
+2013/1/29	D08946	C10AX11	Mipomersen sodium	Kynamro	Genzyme	NME
+2013/1/25	D06553	A10BH04	Alogliptin	Nesina	Takeda Pharmaceuticals USA	NME
+2012/12/31	D03605	A07XA06	Crofelemer	Fulyzaq	Salix Pharmaceuticals	NME
+2012/12/28	D09873	J04AK05	Bedaquiline	Sirturo	Janssen Therapeutics	NME
+2012/12/28	D03213	B01AF02	Apixaban	Eliquis	Bristol-Myers Squibb	NME
+2012/12/21	D09638	C10AX12	Lomitapide	Juxtapid	Aegerion	NME
+2012/12/21	D06053	A16AX08	Teduglutide	Gattex	NPS Pharmaceuticals	NME
+2012/12/14	D10497	H01CB05	Pasireotide	Signifor	Novartis	NME
+2012/12/14	D05706	J06BC02	Raxibacumab	raxibacumab	Human Genome Sciences	BLA
+2012/12/14	D09951	L01EA05	Ponatinib	Iclusig	ARIAD	NME
+2012/11/29	D10095	L01EX07	Cabozantinib	Cometriq	Exelixis	NME
+2012/11/6	D09783	L04AA29	Tofacitinib	Xeljanz	PF Prism CV	NME
+2012/10/26	D08956	L01XX40	Omacetaxine mepesuccinate	Synribo	Ivax International	NME
+2012/10/22	D10780	N03AX22	Perampanel	Fycompa	Eisai	NME
+2012/10/17	D09646	S01XA22	Ocriplasmin	Jetrea	ThromboGenics	BLA
+2012/9/27	D10137	L01EX05	Regorafenib	Stivarga	Bayer HealthCare	NME
+2012/9/12	D10498		Choline C-11	Choline C 11 Injection	Mayo Clinic PET Radiochemistry Facility	NME
+2012/9/12	D10172	L04AA31	Teriflunomide	Aubagio	Sanofi-Aventis US	NME
+2012/9/4	D09728	L01EA04	Bosutinib	Bosulif	Wyeth Pharmaceuticals Inc	NME
+2012/8/31	D10218	L02BB04	Enzalutamide	Xtandi	Astellas	NME
+2012/8/30	D09355	A06AX04	Linaclotide	Linzess	Forest Laboratories	NME
+2012/8/29	D03235	L03AA02	Tbo-filgrastim	Neutroval	Sicor Biotech	BLA
+2012/8/27	D10756	J05AR09	Elvitegravir - Cobicistat - Emtricitabine - Tenofovir disoproxil fumarate	Stribild	Gilead Sciences	NME
+2012/8/3	D09574	L01XX44	Ziv-Aflibercept	Zaltrap	Sanofi-Aventis US	BLA
+2012/7/23	D08837	R03BB05	Aclidinium Bromide	Tudorza Pressair	Forest Laboratories	NME
+2012/7/20	D08880	L01XG02	Carfilzomib	Kyprolis	Onyx Pharmaceuticals	NME
+2012/7/16	D10793	A06AB58	Sodium picosulfate - Magnesium oxide - Citric acid	Prepopik	Ferring Pharmaceuticals	
+2012/6/28	D09535	G04BD12	Mirabegron	Myrbetriq	Astellas Pharma US	NME
+2012/6/27	D06613	A08AA11	Lorcaserin hydrochloride	Belviq	Eisai	NME
+2012/6/8	D05446	L01FD02	Pertuzumab	Perjeta	Genentech	BLA
+2012/5/1	D09675	A16AB11	Taliglucerase alfa	Elelyso	Pfizer	NME
+2012/4/27	D03217	G04BE10	Avanafil	Stendra	VIVUS	NME
+2012/4/6	D09617	V09AX05	Florbetapir F-18	Amyvid	Avid Radiopharmaceuticals	NME
+2012/3/27	D09947	B03XA04	Peginesatide	Omontys	Takeda Pharmaceuticals USA	NME
+2012/3/6	D04792		Lucinactant	Surfaxin	Discovery Laboratories	NME
+2012/2/10	D06274	S01EE05	Tafluprost	Zioptan	Oak Pharmaceuticals	NME
+2012/1/31	D09916	R07AX02	Ivacaftor	Kalydeco	Vertex Pharmaceuticals	NME
+2012/1/30	D09992	L01XJ01	Vismodegib	Erivedge	Genentech	NME
+2012/1/27	D03218	L01EK01	Axitinib	Inlyta	Pfizer	NME
+2012/1/23	D09393	D06BX02	Ingenol mebutate	Picato	Leo Pharma AS	NME
+2012/1/17	D10260	V03AF09	Glucarpidase	Voraxaze	BTG International	BLA
+2011/11/18	D09574	S01LA05	Aflibercept	Eylea	Regeneron Pharmaceuticals	BLA
+2011/11/18	D02997	L01XX02	Asparaginase Erwinia chrysanthemi	Erwinaze	EUSA Pharma USA	BLA
+2011/11/16	D09960	L01EJ01	Ruxolitinib	Jakafi	Incyte Corporation	NME
+2011/10/24	D01253	N05BA09	Clobazam	Onfi	Lundbeck LLC	NME
+2011/10/14	D07416	V03AC02	Deferiprone	Ferriprox	ApoPharma	NME
+2011/8/26	D09731	L01ED01	Crizotinib	Xalkori	PF Prism CV	NME
+2011/8/25	D04492	B06AC02	Icatibant	Firazyr	Shire Orphan Therapies	NME
+2011/8/19	D09587	L01FX05	Brentuximab vedotin	Adcetris	Seattle Genetics	BLA
+2011/8/17	D09996	L01EC01	Vemurafenib	Zelboraf	Hoffmann-La Roche	NME
+2011/7/20	D09017	B01AC24	Ticagrelor	Brilinta	AstraZeneca LP	NME
+2011/7/1	D07086	B01AF01	Rivaroxaban	Xarelto	Janssen Pharmaceuticals	NME
+2011/7/1	D09319	R03AC18	Indacaterol	Arcapta Neohaler	Novartis	NME
+2011/6/15	D03222	L04AA28	Belatacept	Nulojix	Bristol-Myers Squibb	BLA
+2011/6/10	D09569	N03AX21	Ezogabine	Potiga	GlaxoSmithKline	NME
+2011/5/27	D09394	A07AA12	Fidaxomicin	Dificid	Cubist Pharmaceuticals	NME
+2011/5/23	D09012	J05AP02	Telaprevir	Incivek	Vertex Pharmaceuticals	NME
+2011/5/20	D09958	J05AG05	Rilpivirine	Edurant	Janssen Products	NME
+2011/5/13	D08876	J05AP03	Boceprevir	Victrelis	Merck Sharp Dohme	NME
+2011/5/2	D09566	A10BH05	Linagliptin	Tradjenta	Boehringer Ingelheim	NME
+2011/4/28	D09701	L02BX03	Abiraterone acetate	Zytiga	Janssen Biotech	NME
+2011/4/6	D06407	L01EX04	Vandetanib	Caprelsa	IPR Pharmaceuticals	NME
+2011/4/6	D09539	N02BF01	Gabapentin enacarbil	Horizant	XenoPort	NME
+2011/3/25	D04603	L01FX04	Ipilimumab	Yervoy	Bristol-Myers Squibb	BLA
+2011/3/14	D07420	V08CA09	Gadobutrol	Gadavist	Bayer HealthCare	NME
+2011/3/9	D03068	L04AA26	Belimumab	Benlysta	Human Genome Sciences	BLA
+2011/2/28	D05744	R03DX07	Roflumilast	Daliresp	Forest Research Institute	NME
+2011/2/25	D08865	C09CA09	Azilsartan kamedoxomil	Edarbi	Arbor Pharmaceuticals Ireland	NME
+2011/1/21	D09699	N06AX24	Vilazodone hydrochloride	Viibryd	Forest Laboratories	NME
+2011/1/18	D09384		Spinosad	Natroba	ParaPRO LLC	NME
+2011/1/14	D10014	V09AB03	Ioflupane I-123	Datscan	GE Healthcare	NME
+2010/11/15	D08914	L01XX41	Eribulin mesylate	Eribulin mesylate	Eisai	NME
+2010/11/10	D09015	H01AC06	Tesamorelin	Egrifta	Theratechnologies	NME
+2010/10/29	D08884	J01DI02	Ceftaroline fosamil	Ceftaroline fosamil for injection	Cerexa	NME
+2010/10/28	D04820	N05AE05	Lurasidone hydrochloride	Lurasidone HCl	Sunovion Pharmaceuticals	NME
+2010/10/19	D07082	B01AE07	Dabigatran etexilate mesylate	Pradaxa	Boehringer Ingelheim	NME
+2010/9/21	D04187	L04AA27	Fingolimod hydrochloride	Fingolimod HCl oral capsules	Novartis Pharmaceuticals	NME
+2010/9/14	D09316	M04AX02	Pegloticase	Krystexxa	Savient Pharmaceuticals	BLA
+2010/8/13	D09687	G03AD02
+G03XB02	Ulipristal acetate	Ella	Laboratoire HRA Pharma	NME
+2010/7/30	D10012		Incobotulinumtoxin A	Xeomin	Merz Pharmaceuticals GmbH	BLA
+2010/7/28	D06552	S01GX11	Alcaftadine	Lastacaft	Vistakon Pharmaceuticals LLC	NME
+2010/6/17	D10452	L01CD04	Cabazitaxel	Jevtana	Sanofi-Aventis US	NME
+2010/6/1	D03684	M05BX04	Denosumab	Prolia	Amgen	BLA
+2010/5/24	D03207	A16AB07	Alglucosidase alfa2	Lumizyme	Genzyme	
+2010/5/6	D10461	G03AB08	Estradial valerate - Dienogest	Natazia	Bayer HealthCare Pharmaceuticals	NME
+2010/3/30	D01993	C05BB02	Polidocanol	Asclera	Chemische Fabrik Kreussler & Co GmbH	NME
+2010/3/18	D07130	A16AA05	Carglumic acid	Carbaglu	Orphan Europe	NME
+2010/2/26	D09029	A16AB10	Velaglucerase alfa	Vpriv	Shire Human Genetic Therapies	NME
+2010/2/2	D09596	M09AB02	Clostridial collagenase	Xiaflex	Auxilium Pharmaceuticals	BLA
+2010/1/25	D06404	A10BJ02	Liraglutide	Victoza	Novo Nordisk Inc	NME
+2010/1/22	D04127	N07XX07	Dalfampridine	Ampyra	Acorda Therapeutics	NME
+2010/1/8	D02596	L04AC07	Tocilizumab	Actemra	Genentech	BLA
+2009/12/1	D03931	B06AC03	Ecallantide	Kalbitor	Dyax Corporation	BLA
+2009/11/16	D00250	M02AB01
+N01BX04	Capsaicin	Qutenza	NeurogesX	NME
+2009/11/5	D06637	L01XH02	Romidepsin	Romidepsin for infusion	Gloucester Pharmaceuticals	NME
+2009/10/26	D09314	L01FA02	Ofatumumab	Arzerra	Glaxo Group GlaxoSmithKline	BLA
+2009/10/19	D05380	L01EX03	Pazopanib	Votrient tablets	GlaxoSmithKline	NME
+2009/9/25	D09214	L04AC05	Ustekinumab	Stelara	Centocor Ortho Biotech	BLA
+2009/9/24	D05589	L01BA05	Pralatrexate	Folotyn	Allos Therapeutics	NME
+2009/9/11	D06057	J01XA03	Telavancin	Telavancin	Theravance	NME
+2009/9/8	D01654		Bepotastine besilate	Bepotastine besilate ophthalmic solution	ISTA Pharmaceuticals	NME
+2009/8/21	D00535	N03AG04	Vigabatrin	Sabril (Vigabatrin) tablet 500mg	Lundbeck Inc	NME
+2009/8/13	D02995	N05AH05	Asenapine	Saphris	Organon USA	NME
+2009/8/3	D01862	C10AA08	Pitavastatin	Livalo tablets	Kowa Research Institute	NME
+2009/7/31	D10262	A10BH03	Saxagliptin	Onglyza	Bristol-Myers Squibb CO	NME
+2009/7/10	D05597	B01AC22	Prasugrel	Effient	Eli Lilly	NME
+2009/7/1	D03914	C01BD07	Dronedarone hydrochloride	Multaq	Sanofi-Aventis US	NME
+2009/6/17	D09315	L04AC08	Canakinumab	Ilaris	Novartis Pharmaceuticals	BLA
+2009/5/28	D08872	S01AE08	Besifloxacin	Besifloxacin HCl	Bausch & Lomb	NME
+2009/5/19	D01213	C03XA01	Tolvaptan	Samsca	Otsuka America Pharmaceutical	NME
+2009/5/6	D02666	N05AX14	Iloperidone	Fanapt	Vanda Pharmaceuticals	NME
+2009/4/29	D09764		Abobotulinumtoxin A	Dysport	Ipsen Biopharm Ltd	BLA
+2009/4/24	D04358	L04AB06	Golimumab	Simponi	Centocor Ortho Biotech	BLA
+2009/4/9	D00077	P03AX06	Benzyl alcohol	Ulesfia	Sciele Pharma	NME
+2009/4/7	D02484	P01BF01	Artemether - Lumefantrine	Coartem	Novartis Pharmaceuticals	NME
+2009/3/30	D02714	L01EG02	Everolimus	Afinitor	Novartis Pharmaceuticals	NME
+2009/2/13	D01206	M04AA03	Febuxostat	Uloric (Febuxostat) tablets	Takeda Pharmaceuticals North America	NME
+2009/1/14	D01107	N06AX17	Milnacipran HCl tablets	Savella tablets	Cypress Bioscience	NME
+2008/12/24	D09400	L02BX02	Degarelix acetate	Degarelix	Ferring	NME
+2008/12/22	D04286	V08CA11	Gadofosveset trisodium	Vasovist	EPIX	NME
+2008/12/15	D08971	L03AX16	Plerixafor	Mozobil	Genzyme	NME
+2008/12/12	D04257	N01AX10	Fospropofol disodium	Lusedra	Eisai Medical	NME
+2008/11/20	D03978	B02BX05	Eltrombopag olamine	Promacta	GlaxoSmithKline	NME
+2008/11/20	D10199	N02AX06	Tapentadol hydrochloride	Tapentadol	Ortho-McNeil-Janssen	NME
+2008/11/14	D05775	N03AF03	Rufinamide	Banzel oral tabs	Eisai	NME
+2008/10/31	D08923	G04BD11	Fesoterodine fumarate	Toviaz	Pfizer	NME
+2008/10/28	D07299	N03AX18	Lacosamide	Vimpat rablets	Schwarz Biosciences	NME
+2008/10/8	D01965	G04CA04	Silodosin	Rapaflo	Watson Labs	NME
+2008/9/19	D04559	V09IX01	Iobenguane	AdreView	GE Healthcare	NME
+2008/8/22	D08990	B02BX04	Romiplostim	Nplate	Amgen	BLA
+2008/8/15	D08575	N07XX06	Tetrabenazine	Xenazine	Prestwick	NME
+2008/8/1	D08892	C08CA16	Clevidipine butyrate	Cleviprex	Medicines Company	NME
+2008/7/3	D04288	V08CA10	Gadoxetate disodium	Eovist injection	Bayer	NME
+2008/6/23	D01266	D07AC19	Difluprednate	Durezol	Sirion	NME
+2008/5/20	D02878	A06AH02	Alvimopan	Entereg	Adolor	NME
+2008/4/24	D06618	A06AH01	Methylnaltrexone bromide	Relistor	Progenics	NME
+2008/4/22	D03441	L04AB05	Certolizumab pegol	Cimzia	UCB	BLA
+2008/4/10	D05711	C01EB21	Regadenoson	Lexiscan	CV Therapeutics	NME
+2008/3/20	D07085	L01AA09	Bendamustine hydrochloride	Treanda	Cephalon	NME
+2008/2/29	D02570	N06AX23	Desvenlafaxine succinate	Pristiq	Wyeth	NME
+2008/2/27	D06635	L04AC04	Rilonacept	Arcalyst	Regeneron	BLA
+2008/1/18	D04112	J05AG04	Etravirine	Intelence	Tibotec	NME
+2007/12/17	D06622	C07AB12	Nebivolol	Bystolic	Mylan Bertek	NME
+2007/12/13	D01798	A16AX07	Sapropterin dihydrochloride	Kuvan	BioMarin	NME
+2007/11/14	D09998	B03XA03	Methoxy polyethylene glycol-epoetin beta	Mircera	Hoffman La-Roche	BLA
+2007/10/29	D06413	L01EA03	Nilotinib	Tasigna	Novartis	NME
+2007/10/16	D04645	L01DC04	Ixabepilone	Ixempra	Bristol-Myers Squibb	NME
+2007/10/12	D03895	J01DH04	Doripenem	Doribax	Johnson & Johnson	NME
+2007/10/12	D07133	J05AJ01	Raltegravir potassium	Isentress	Merck	NME
+2007/8/30	D04666	H01CB03	Lanreotide	Somatuline Depot	Biomeasure	NME
+2007/8/23	D02915	V09GX05	Ammonia N 13	Ammonia N13	Feinstein	NME
+2007/8/6	D06670	J05AX09	Maraviroc	Selzentry	Pfizer	NME
+2007/6/15	D07077	C02KX02	Ambrisentan	Letairis	Gilead Sciences	NME
+2007/5/30	D06068	L01EG01	Temsirolimus	Torisel	Wyeth	NME
+2007/5/9	D05768	N04BC09	Rotigotine	Neupro	Schwarz BioSciences	NME
+2007/4/12	D05720	D06AX13	Retapamulin	Altabax	GlaxoSmithKline	NME
+2007/3/16	D03940	L04AA25	Eculizumab	Soliris	Alexion	BLA
+2007/3/13	D04024	L01EH01	Lapatinib	Tykerb	GlaxoSmithKline	NME
+2007/3/5	D06412	C09XA02	Aliskiren	Tekturna	Novartis	NME
+2007/2/23	D04747	N06BA12	Lisdexamfetamine dimesylate	Vyvanse	New River	NME
+2006/12/19	D05339	N05AX13	Paliperidone	Invega	Janssen LP	NME
+2006/10/31	D08997	D06BB12	Sinecatechins	Veregen	MediGene	NME
+2006/10/25	D06675	J05AF11	Telbivudine	Tyzeka	Idenix	NME
+2006/10/20	D01703	R01AD13
+R03BA08	Ciclesonide	Omnaris	Altana	NME
+2006/10/16	D06645	A10BH01	Sitagliptin phosphate	Januvia	Merck	NME
+2006/10/6	D06320	L01XH01	Vorinostat	Zolinza	Merck	NME
+2006/9/28	D10245	A02BD08	Biskalcitrate - Metronidazole - Tetracycline hydrochloride	Pylera	Axcan Scandipharm	NME
+2006/9/27	D05350	L01FE02	Panitumumab	Vectibix	amgen	BLA
+2006/9/15	D02555	J02AC04	Posaconazole	Noxafil	Schering	NME
+2006/7/24	D04499	A16AB09	Idursulfase	Elaprase	Shire Human Genetic Therapies	BLA
+2006/7/21			Avobenzone - Ecamsule - Octocrylene	Anthelios SX	L'Oreal	
+2006/6/30	D05697	S01LA04	Ranibizumab	Lucentis	Genentech	BLA
+2006/6/28	D06414	L01EA02	Dasatinib	Sprycel	Bristol-Myers Squibb	NME
+2006/6/23	D06478	J05AE10	Darunavir	Prezista	Tibotec	NME
+2006/5/16	D02562	N04BD02	Rasagiline mesylate	Azilect	Teva	NME
+2006/5/10	D06282	N07BA03	Varenicline	Chantix	Pfizer	NME
+2006/5/2	D03665	L01BC08	Decitabine	Dacogen	MGI Pharma	NME
+2006/4/28	D03207	A16AB07	Alglucosidase alfa	Myozyme	Genzyme	BLA
+2006/2/17	D03211	J02AX06	Anidulafungin	Eraxis	Vicuron	NME
+2006/1/31	D04790	A06AX03	Lubiprostone	Amitiza	Sucampo	NME
+2006/1/27	D05700	C01EB18	Ranolazine	Ranexa	CV Therapeutics	NME
+2006/1/26	D06402	L01EX01	Sunitinib malate	Sutent	Pfizer	NME
+2005/12/29	D01236	C03XA02	Conivaptan hydrochloride	Vaprisol	Astellas	NME
+2005/12/27	D04687	L04AX04	Lenalidomide	Revlimid	Celgene	NME
+2005/12/23	D03203	L04AA24	Abatacept	Orencia	Bristol-Myers Squibb	BLA
+2005/12/20	D06272	L01EX02	Sorafenib tosylate	Nexavar	Bayer	NME
+2005/12/12	D04870	H01AC05	Mecasermin rinfabate [rDNA Origin]	Iplex	Insmed	NME
+2005/12/2	D06604	B06AA03	Hyaluronidase	Hylenex recombinant	Halozyme	NME
+2005/11/2	D03669	V03AC03	Deferasirox	Exjade	Novartis	NME
+2005/10/28	D05134	L01BB07	Nelarabine	Arranon	GlaxoSmithKline	NME
+2005/10/25	D04456	B06AA03	Hyaluronidase	Hydase	PrimaPharm	
+2005/8/30	D03297	H01AC03	Mecasermin	Increlex	Tercica	NME
+2005/8/19	D05143	S01BC10	Nepafenac	Nevanac	Alcon	NME
+2005/7/22	D02689	N05CH02	Ramelteon	Rozerem	Takeda Global	NME
+2005/6/22	D08605	J05AE09	Tipranavir	Aptivus	Boehringer Ingelheim	NME
+2005/6/16	D04539	A10AE05	Insulin detemir	Levemir	Novo Nordisk	NME
+2005/6/15	D01079	J01AA12	Tigecycline	Tygacil	Wyeth Pharms	NME
+2005/5/31	D06565	A16AB08	Galsulfase	Naglazyme	Biomarin Pharmaceutical Inc.	BLA
+2005/4/28	D04121	A10BJ01	Exenatide	Byetta	Amylin	NME
+2005/3/29	D04008	J05AF10	Entecavir	Baraclude	Bristol Myers Squibb	NME
+2005/3/16	D05595	A10BX05	Pramlintide acetate	Symlin	Amylin	NME
+2005/3/16	D02465	J02AX05	Micafungin sodium	Mycamine	Fujisawa	NME
+2004/12/30	D02716	N02BF02	Pregabalin	Lyrica	Pfizer	NME
+2004/12/29	D02721	B01AC11	Iloprost	Ventavis	Cotherix	NME
+2004/12/28	D08686	N02BG08	Ziconotide	Prialt	Elan Pharms	NME
+2004/12/28	D03546	L01BB06	Clofarabine	Clolar	Genzyme	NME
+2004/12/22	D01699	G04BD10	Darifenacin hydrobromide	Enablex	Novartis	NME
+2004/12/17	D05386	S01LA03	Pegaptanib sodium	Macugen	Eyetech Pharms	NME
+2004/12/16	C19307	S01KX02	Trypan blue	Vision blue	Dorc International BV	NME
+2004/12/15	D02624	N05CF04	Eszopiclone	Lunesta	Sepracor	NME
+2004/12/15	D05338	V03AF08	Palifermin	Kepivance	Amgen	BLA
+2004/11/23	D04283	V08CA08	Gadobenate dimeglumine	Multihance	Bracco	NME
+2004/11/23	D06886	L04AA23	Natalizumab	Tysabri	Biogen Idec Inc.	BLA
+2004/11/19	D01269	G04BD08	Solifenacin succinate	VESIcare	Yamanouchi	NME
+2004/11/18	D04023	L01EB02	Erlotinib hydrochloride	Tarceva	OSI Pharms	NME
+2004/11/10	D05255	C10AX06	Omega-3-acid ethyl esters	Omacor	Ross Prods	NME
+2004/10/26	D04667	V03AE03	Lanthanum carbonate hydrate	Fosrenol	Shire Pharm	NME
+2004/10/26	D04456	B06AA03	Hyaluronidase	Amphadase	Amphastar Pharm	NME
+2004/8/11	D05419		Pentetate calcium trisodium	Pentetate calcium trisodium	Pharma Hameln GmbH	NME
+2004/8/11	D09762		Pentetate zinc trisodium	Pentetate zinc trisodium	Pharma Hameln GmbH	NME
+2004/8/3	D01179	N06AX21	Duloxetine hydrochloride	Cymbalta	Eli Lilly	NME
+2004/7/29	D02780	N07BB03	Acamprosate calcium	Campral	Lipha	NME
+2004/7/2	D06033		Technetium Tc 99m fanolesomab	NeutroSpec	Palatin Technologies	BLA
+2004/6/10	D00015	A16AA03	L-Glutamine	NutreStore	Nutritional Restart	NME
+2004/5/28	D01103	G04BD09	Trospium chloride	Sanctura	Indevus	NME
+2004/5/25	D02554	A07AA11
+D06AX11	Rifaximin	Xifaxan	Salix Pharma	NME
+2004/5/19	D03021	L01BC07	Azacitidine	Vidaza	Pharmion	NME
+2004/5/17	D01426	J01XD02
+P01AB02	Tinidazole	Tindamax	Presutti Labs	NME
+2004/5/5	D04455	B06AA03	Ovine hyaluronidase	Vitrase	Ista Pharms	NME
+2004/4/20	D02004	N04BC07	Apomorphine hydrochloride	Apokyn	Bertek	NME
+2004/4/16	D04540	A10AB06	Insulin glulisine	Apidra	Aventis Pharms	NME
+2004/4/9	D02021	V04CK01	Secretin	ChiRhoStim	Chirhoclin	NME
+2004/4/1	D01078	J01FA15	Telithromycin	Ketek	Aventis Pharms	NME
+2004/3/8	D03505	H05BX01	Cinacalcet hydrochloride	Sensipar	Amgen	NME
+2004/2/26	D06409	L01FG01	Bevacizumab	Avastin	Genentech	BLA
+2004/2/12	D03455	L01FE01	Cetuximab	Erbitux	ImClone Systems	BLA
+2004/2/4	D06503	L01BA04	Pemetrexed disodium heptahydrate	Alimta	Eli Lilly	NME
+2004/1/30	D01929	R03BB04	Tiotropium bromide	Spiriva Handihaler	Boehringer Ingelheim	NME
+2003/12/10	D08510	D01AC14
+G01AF19	Sertaconazole nitrate	Ertaczo	Mylan	NME
+2003/11/25	D02738	L02BX01	Abarelix	Plenaxis	Praecis	NME
+2003/11/21	D02008	G04BE08	Tadalafil	Cialis	Lilly	NME
+2003/10/16	D04905	N06DX01	Memantine hydrochloride	Namenda	Forest Labs	NME
+2003/10/16	D01713	R06AX24
+S01GX10	Epinastine hydrochloride	Elestat	Allergan	NME
+2003/10/2	D05647	V03AB31	Prussian blue	Radiogardase	Heyl Chemisch-pharmazeutische Fabrik GmbH	NME
+2003/9/12	D01080	J01XX09	Daptomycin	Cubicin	Cubist	NME
+2003/8/19	D03260	G04BE09	Vardenafil hydrochloride	Levitra	Bayer	NME
+2003/8/12	D01915	C10AA07	Rosuvastatin calcium	Crestor	IRP AstraZenca	NME
+2003/7/31	D05032	A16AX06	Miglustat	Zavesca	Actelion	NME
+2003/7/25	D05343	A04AA05	Palonosetron hydrochloride	Aloxi	Helsinn Healthcare S.A.	NME
+2003/7/2	D01199	J05AF09	Emtricitabine	Emtriva	Gilead Sciences	NME
+2003/6/20	D01276	J05AE08	Atazanavir	Reyataz	Bristol-Myers Squibb	NME
+2003/6/12	D01692	G04CA01	Alfuzosin hydrochloride	Uroxatral	Sanofi-Synthelabo	NME
+2003/5/16	D04486	M05BA06	Ibandronate sodium	Boniva	Hoffman-La Roche	NME
+2003/5/13	D03150	L01XG01	Bortezomib	Velcade	Millennium Pharms	NME
+2003/5/5	D01977	L01EB01	Gefitinib	Iressa	AstraZeneca	NME
+2003/4/4	D02471	J01MA15	Gemifloxacin mesylate	Factive	LG Life Sciences, Ltd	NME
+2003/3/26	D02968	A04AD12	Aprepitant	Emend	Merck	NME
+2003/3/25	D05394	H01AX01	Pegvisomant	Somavert	Pharmacia & Upjohn	NME
+2003/3/13	D02499	J05AX07	Enfuvirtide	Fuzeon	Hoffman-La Roche	NME
+2002/12/26	D01973	N02CC06	Eletriptan hydrobromide	Relpax	Pfizer	NME
+2002/12/12	D03266		Icodextrin	Extraneal	Baxter Healthcare	NME
+2002/11/26	D02574	N06BA09	Atomoxetine hydrochloride	Strattera	Eli Lilly	NME
+2002/11/22	D02486	P01AX11	Nitazoxanide	Alinia	Romak Labs	NME
+2002/11/15	D01164	N05AX12	Aripiprazole	Abilify	Otsuka Pharmaceutical	NME
+2002/10/25	D01966	C10AX09	Ezetimibe	Zetia	MSP Singapore	NME
+2002/9/27	D01115	C03DA04	Eplerenone	Inspra	GD Searle	NME
+2002/9/20	D01655	J05AF08	Adefovir dipivoxil	Hepsera	Gilead Sciences	NME
+2002/8/9	D01790	L01XA03	Oxaliplatin	Eloxatin	Sanofi-Synthelabo	NME
+2002/7/24	D02730	A06AX06	Tegaserod maleate	Zelnorm	Novartis Pharms	NME
+2002/7/17	D05866	N01AX11
+N07XX04	Sodium oxybate	Xyrem	Orphan Medical	NME
+2002/5/31	D05439	V08CX01	Perflexane phospholipid microspheres	Imagent	Alliance Pharm	NME
+2002/5/24	D00578	J02AC03	Voriconazole	Vfend	Pfizer	NME
+2002/5/21	D06213	B01AC21	Treprostinil Sodium	Remodulin	United Therapeutics	NME
+2002/4/25	D01204	C09CA08	Olmesartan medoxomil	Benicar	Sankyo	NME
+2002/4/25	D01161	L02BA03	Fulvestrant	Faslodex	AstraZeneca	NME
+2002/1/18	D05177	A16AX04	Nitisinone	Orfadin	Swedish Orphan	NME
+2001/12/21	D03693	R06AX27	Desloratadine	Clarinex	Schering	NME
+2001/12/13	D05480	D11AH02	Pimecrolimus	Elidel	Novartis Pharms	NME
+2001/12/7	D01844	B01AX05	Fondaparinux sodium	Arixtra	Fonda BV	NME
+2001/11/21	D04049	J01DH03	Ertapenem sodium	Invanz	Merck	NME
+2001/11/20	D10839	G03AA13	Norelgestromin - Ethinyl estradiol	Ortho Evra	RW Johnson	NME
+2001/11/20	D01227	C02KX01	Bosentan	Tracleer	Actelion	NME
+2001/11/20	D03820	G04CB02	Dutasteride	Avodart	Glaxo SmithKline	NME
+2001/11/16	D02709	M01AH03	Valdecoxib	Bextra	Searle Pharms	NME
+2001/11/8	D04264	N02CC07	Frovatriptan succinate	Frova	Elan Pharma	NME
+2001/10/26	D01982	J05AF07	Tenofovir disoproxil fumarate	Viread	Gilead Sciences	NME
+2001/10/3	D11655		Etonogestrel - Ethinyl estradiol	NuvaRing	Organon	
+2001/8/29	D01628	J01DD16	Cefditoren pivoxil	Spectracef	TAP Pharm	NME
+2001/8/20	D01968	M05BA08	Zoledronic acid	Zometa	Novartis Pharms	NME
+2001/8/10	D05147	C01DX19	Nesiritide	Natrecor	Scios	NME
+2001/7/31	D01738	V08DA04	Perflutren lipid microsphere	Definity	Dupont Pharms	NME
+2001/5/11	D09741	G03AA12	Drospirenone - Ethinyl estradiol	Yasmin	Berlex Labs	NME
+2001/5/10	D01441	L01EA01	Imatinib mesylate	Gleevec	Novartis Pharms	NME
+2001/5/7	D02825	N02CC05	Almotriptan malate	Axert	Pharmacia & Upjohn	NME
+2001/3/16	D01964	S01EE04	Travoprost	Travatan	Alcon Universal	NME
+2001/3/16	D02724	S01EE03	Bimatoprost	Lumigan	Allergan	NME
+2001/2/28	D02173	N06DA04	Galantamine hydrobromide	Reminyl	Janssen Research	NME
+2001/2/16	D01373	R03AC13	Formoterol fumarate	Foradil Aerolizer	Novartis Pharms	NME
+2001/2/5	D01939	N05AE04	Ziprasidone hydrochloride	Geodon	Pfizer	NME
+2001/1/26	D02501	J02AX04	Caspofungin acetate	Cancidas	Merck Research Labs	NME
+2000/12/22	D01111	A10BX03	Nateglinide	Starlix	Novartis Pharms	NME
+2000/12/15	D03136	B01AE06	Bivalirudin	Angiomax	The Medicines Company	NME
+2000/9/28	D00585	G03XB01	Mifepristone	Mifeprex	Population Council	NME
+2000/9/25	D02106	L01XX27	Arsenic trioxide	Trisenox	Cell Therapeutics	NME
+2000/9/15	D02498	J05AR10	Lopinavir - Ritonavir	Kaletra	Abbott Labs	NME
+2000/8/11	D01685	H01CC02	Cetrorelix acetate	Cetrotide	Serono	NME
+2000/8/3	D01452	S01EE02	Unoprostone isopropyl	Rescula	Ciba Vision	NME
+2000/7/25	D03884	D06BB11	Docosanol	Abreva	SKB Cons Healthcare	NME
+2000/7/18	D02715	A07EC04	Balsalazide disodium	Colazal	Salix Pharm	NME
+2000/7/14	D06398	B01AB10	Tinzaparin sodium	Innohep	Dupont	NME
+2000/6/30	D00181	B01AE03	Argatroban	Acova	Texas Biotech	NME
+2000/6/15	D06248	L02AE04	Triptorelin pamoate	Trelstar Depot	Debio Recherche	NME
+2000/6/7	D04475	A10AB05	Insulin aspart	NovoLog	Novo Nordisk	NME
+2000/5/26	D03582	C10AC04	Colesevelam hydrochloride	Welchol	Sankyo Pharm	NME
+2000/5/17	D03259	L01FX02	Gemtuzumab ozogamicin	Mylotarg	Wyeth-Ayerst	BLA
+2000/4/21	D02558	N06DA03	Rivastigmine tartrate	Exelon	Novartis Pharms	NME
+2000/4/20	D03250	A10AE04	Insulin glargine	Lantus	Aventis Pharms	NME
+2000/4/18	D00947	J01XX08	Linezolid	Zyvox	Pharmacia & Upjohn	NME
+2000/4/13	D00969	M01AC06	Meloxicam	Mobic	Boehringer Ingleheim Pharms	NME
+2000/4/12	D01162	S01LA01	Verteporfin	Visudyne	QLT Photo	NME
+2000/4/3	D11290	N01BB58	Articaine hydrochloride - Epinephrine	Septocaine	Deproco	NME
+2000/3/27	D00538	N03AX15	Zonisamide	Zonegran	Dainippon Pharm	NME
+2000/2/17			Perfluoro-polymethyl-isopropyl ether - Polytetrafluoro-ethylene	Skin exposure reduction paste against chemical warfare agents	U.S. Army	
+2000/2/9	D02829	A03AE01	Alosetron hydrochloride	Lotronex	Glaxo Wellcome	NME
+2000/2/2	D02593	A02BC02	Pantoprazole sodium	Protonix	Wyeth-Ayerst	NME
+2000/1/14	D00533	N03AF02	Oxcarbazepine	Trileptal	Novartis Pharms	NME
+2000/1/11	D00661	N07AX03	Cevimeline hydrochloride	Evoxac	ShowBrand	NME
+1999/12/29	D03106	L01XF03	Bexarotene	Targretin	Ligand Pharm	NME
+1999/12/23	D00074	R07AX01	Nitric oxide	INOmax	INO Therapeutics	NME
+1999/12/17	D01205	N05CM18	Dexmedetomidine hydrochloride	Precedex	Abbott Labs	NME
+1999/12/17	D00589	J01MA16
+S01AE06	Gatifloxacin	Tequin	Bristol-Myers Squibb	NME
+1999/12/10			Mequinol - tretinoin	Solage	Bristol-Myers Squibb	
+1999/12/10	D00874	J01MA14
+S01AE07	Moxifloxacin hydrochloride	Avelox	Bayer	NME
+1999/12/8	D01646	V08CA06	Gadoversetamide	Optimark	Mallinckrodt	NME
+1999/12/3	D02908	L01XD04	Aminolevulinic acid hydrochloride	Levulan Kerastick	DUSA Pharm	NME
+1999/11/30	D00709	N03AX14	Levetiracetam	Keppra	UCB Pharm	NME
+1999/11/18	D08402		Poractant alfa	Curosurf	Dey Labs	NME
+1999/10/27	D00900	J05AH02	Oseltamivir phosphate	Tamiflu	Hoffmann-La Roche	NME
+1999/10/21	D00963	L02BG06	Exemestane	Aromasin	Pharmacia & Upjohn	NME
+1999/10/19	D00781	N04BX02	Entacapone	Comtan	Orion	NME
+1999/10/1	D00647	C01BD04	Dofetilide	Tikosyn	Pfizer	NME
+1999/9/24	D01088		Pemirolast potassium	Alamast	Santen	NME
+1999/9/21	D00854	J01FG02	Quinupristin - Dalfopristin	Synercid IV	Rhone Poulenc Rorer	NME
+1999/9/15	D00753	L04AA10	Sirolimus	Rapamune	Wyeth-Ayerst	NME
+1999/9/15	D02214	L01DB03	Epirubicin hydrochloride	Ellence	Pharmacia & Upjohn	NME
+1999/8/19	D00724	A02BC04	Rabeprazole sodium	Aciphex	Eisai (US)	NME
+1999/8/18	D05703		Rapacuronium bromide	Raplon	Organon	NME
+1999/8/13	D00530	N05CF03	Zaleplon	Sonata	Wyeth-Ayerst	NME
+1999/8/11	D06067	L01AX03	Temozolomide	Temodar	Schering	NME
+1999/8/3	D06030	V09IA05	Technetium Tc 99m depreotide	Neotect	Diatide	NME
+1999/7/29	D04302	H01CC01	Ganirelix acetate	Antagon	Organon	NME
+1999/7/26	D00902	J05AH01	Zanamivir	Relenza	Glaxo Wellcome	NME
+1999/7/15	D00945	A10BG03	Pioglitazone hydrochloride	Actos	Takeda America	NME
+1999/7/2	D01332	R06AX17
+S01GX08	Ketotifen fumarate	Zaditor	Ciba Vision	NME
+1999/6/9	D01009	H05BX03	Doxercalciferol	Hectorol	Bone Care International	NME
+1999/5/25	D00596	A10BG02	Rosiglitazone maleate	Avandia	SmithKline Beecham	NME
+1999/5/20	D00568	M01AH02	Rofecoxib	Vioxx	Merck	NME
+1999/4/23	D04028	A08AB01	Orlistat	Xenical	Hoffmann-La Roche	NME
+1999/4/15	D00894	J05AE05	Amprenavir	Agenerase	Glaxo Wellcome	NME
+1999/2/18	D05859		Sodium ferric gluconate complex	Ferrlecit	R&D Lab	NME
+1999/2/2	D02815	D11AH04
+L01XF02	Alitretinoin	Panretin	Ligand Pharm	NME
+1999/1/15	D01896	B01AC23	Cilostazol	Pletal	Otsuka Pharmaceutical	NME
