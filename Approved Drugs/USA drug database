@@ -1,0 +1,61 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Jul 25 18:06:34 2023
+
+@author: Niloofar
+
+This program creates a database of approved drugs in USA with the companies' statistics over 20 years'
+
+"""
+import numpy as np
+drug_info=[]
+company_info=[]
+
+with open(r"C:\Users\Niloofar\Desktop\Code\files\USDrugDB.txt",'r') as drugs:
+    approved_drugs=drugs.readlines()
+    #print(approved_drugs)
+    
+    #for i in range(len(approved_drugs)):
+        #datesplit=approved_drugs[i].split('\t')
+        #drug_info.append(datesplit[0])
+
+    for i in range(len(approved_drugs)):
+        dsplit=approved_drugs[i].split()
+        drug_info.append(dsplit[0])
+        drug_info.append(dsplit[3:6])
+     
+    #print(*drug_info,sep='\n')
+
+# =============================================================================
+# with open(r"C:\Users\Niloofar\Desktop\Code\files\USDrugCompanies.txt",'w') as drug_com:
+#     #drug_com.write("Date, Active ingredient, Drug name, Company")
+#     for j in range(0,len(drug_info),2):
+#         drug_com.write(drug_info[j])
+#         drug_com.write(' ')
+#         for k in range(len(drug_info[j+1])):
+#             drug_com.write(drug_info[j+1][k])
+#             drug_com.write(' ')
+#             
+#         drug_com.write("\n")
+# =============================================================================
+
+#Count number of approved drugs for each company
+
+with open(r"C:\Users\Niloofar\Desktop\Code\files\USDrugCompanies.txt",'r') as companies:
+    company_stats=companies.readlines()
+    
+    for l in range(len(company_stats)):
+        csplit=company_stats[l].split()
+        if len(csplit)>3:
+            company_info.append(csplit[3])
+        else:
+            pass;
+
+seen_com = []
+for n in company_info:
+    if n not in seen_com:
+        print("Company", n, "'s drug has been approved ", company_info.count(n), "times during this interval.")
+        seen_com.append(n)
+        print("\n")
+    
+    
