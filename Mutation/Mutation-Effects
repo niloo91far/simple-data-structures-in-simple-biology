@@ -1,0 +1,105 @@
+#This programs applies multiple mutation of different types randomly and analyses the effect on protein level
+
+import random
+mutnum=int(input("How many mutations you want to apply overally? "))
+mutnum_point=int(input("How many 'Point Mutations' you want to apply? "))
+mutnum_delete=int(input("How many 'Deletion Mutations' you want to apply? "))
+mutnum_insert=int(input("How many 'Insertion Mutations' you want to apply? "))
+
+gene = 'atgactgaatataaacttgtggtagttggagctggtggcgtaggcaagagtgccttgacgatacagctaattcagaatcattttgtggacgaatatgatccaacaatagaggattcctacaggaagcaagtagtaattgatggagaaacctgtctcttggatattctcgacacagcaggtcaagaggagtacagtgcaatgagggaccagtacatgaggactggggagggctttctttgtgtatttgccataaataatactaaatcatttgaagatattcaccattatagagaacaaattaaaagagttaaggactctgaagatgtacctatggtcctagtaggaaataaatgtgatttgccttctagaacagtagacacaaaacaggctcaggacttagcaagaagttatggaattccttttattgaaacatcagcaaagacaagacagagagtggaggatgctttttatacattggtgagagagatccgacaatacagattgaaaaaaatcagcaaagaagaaaagactcctggctgtgtgaaaattaaaaaatgcattataatgtaa'
+
+phe = ['ttt','ttc']
+leu = ['tta','ttg','ctt','ctc','cta','ctg']
+ile = ['att','atc','ata']
+met = ['atg']
+val = ['gtt','gtc','gta','gtg']
+ser = ['tct','tcc','tca','tcg','agt','agc']
+pro = ['cct','ccc','cca','ccg']
+thr = ['act','acc','aca','acg']
+ala = ['gct','gcc','gca','gcg']
+tyr = ['tat','tac']
+his = ['cat','cac']
+gln = ['caa','cag']
+asn = ['aat','aac']
+lys = ['aaa','aag']
+asp = ['gat','gac']
+glu = ['gaa','gag']
+cys = ['tgt','tgc']
+trp = ['tgg']
+arg = ['cgt','cgc','cga','cgg','aga','agg']
+gly = ['ggt','ggc','gga','ggg']
+stop = ['taa','tag','tga']
+
+allcode3 = [phe,leu,ile,met,val,ser,pro,thr,ala,tyr,
+            his,gln,asn,lys,asp,glu,cys,trp,arg,gly]
+
+aacode = ['F','L','I','M','V','S','P','T','A','Y','H',
+          'Q','N','K','D','E','C','W','R','G']
+ncode=['a','t','g','c']
+
+prot=[]
+p=0
+
+for i in range(0, len(gene)-4,3):
+    if gene[i:i+3] in stop:
+        break
+    for j in range(len(allcode3)):
+        if gene[i:i+3] in allcode3[j]:
+            prot.append(aacode[j])
+
+protein = "".join(prot)
+genelist=list(gene)
+print("Original Protein:\n",protein)
+
+for i in range(mutnum):
+    for j in range(mutnum_point):
+        mutpo=random.randint(0,len(genelist)-1)
+        mutnuc=ncode[random.randint(0,len(ncode)-1)]
+        ncode_new=ncode.copy()
+        aminomut=genelist[mutpo]
+        ncode_new.remove(aminomut)
+        mutnuc=ncode_new[random.randint(0,len(ncode_new)-1)]
+        genelist[mutpo]=mutnuc
+    for j in range(mutnum_delete):
+        mutpo=random.randint(0,len(genelist)-1)
+        mutnuc=ncode[random.randint(0,len(ncode)-1)]
+        genelist.pop(mutpo)
+    for j in range(mutnum_insert):
+        mutpo=random.randint(0,len(genelist)-1)
+        mutnuc=ncode[random.randint(0,len(ncode)-1)]
+        genelist.insert(mutpo,mutnuc)
+
+
+geneMuted=''.join(genelist)
+protMuted=[]
+p=0
+
+#To Protein
+for i in range(0, len(geneMuted)-4,3):
+    if geneMuted[i:i+3] in stop:
+        break
+    for j in range(len(allcode3)):
+        if geneMuted[i:i+3] in allcode3[j]:
+            protMuted.append(aacode[j])
+
+protMuted = "".join(protMuted)
+print("Muted Protein:\n",protMuted)
+
+#Effect
+if bool(mutnum_point):
+    if len(protMuted)==len(protein):
+        for i in range(len(protein)):
+            if (i <= len(protMuted)) and (protein[i] != protMuted[i]):
+                print (protein[i], "in position ", i, "is muted to ", protMuted[i], ": Missence")
+    else:
+        print ("Nonsence mutation")
+elif bool(mutnum_delete):
+    if len(protMuted)<len(protein):
+        print("Nonsence mutation")
+elif bool(mutnum_insert):
+    if len(protMuted)<len(protein):
+        print("Nonsence mutaiton")
+    elif len(protMuted)==len(protein):
+        print("Silent mutaiton")
+    else:
+        print("Frame shift")
